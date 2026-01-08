@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-08T14:45:26.670623+00:00",
+  "updated_at": "2026-01-08T15:03:42.555895+00:00",
   "items": [
     {
       "artist": "A Tribe Called Quest",
@@ -412,6 +412,11 @@
       "year": null
     },
     {
+      "artist": "Linkin Park",
+      "album": "Hybrid Theory",
+      "year": 2022
+    },
+    {
       "artist": "Lynyrd Skynyrd",
       "album": "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)",
       "year": 1973
@@ -550,6 +555,11 @@
       "artist": "Radiohead",
       "album": "A Moon Shaped Pool",
       "year": null
+    },
+    {
+      "artist": "Radiohead",
+      "album": "In Rainbows",
+      "year": 2022
     },
     {
       "artist": "Radiohead",
