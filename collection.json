@@ -1,0 +1,830 @@
+{
+  "updated_at": "2026-01-08T14:24:21.992225+00:00",
+  "items": [
+    {
+      "artist": "A Tribe Called Quest",
+      "album": "Midnight Marauders",
+      "year": 2019
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Back In Black",
+      "year": 1980
+    },
+    {
+      "artist": "AC/DC",
+      "album": "For Those About To Rock We Salute You",
+      "year": 1981
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live",
+      "year": 2009
+    },
+    {
+      "artist": "Aerosmith",
+      "album": "Pump",
+      "year": 1989
+    },
+    {
+      "artist": "AIR",
+      "album": "Moon Safari",
+      "year": 1998
+    },
+    {
+      "artist": "America (2)",
+      "album": "America",
+      "year": 1979
+    },
+    {
+      "artist": "Amy Winehouse",
+      "album": "Back To Black",
+      "year": 2009
+    },
+    {
+      "artist": "Antonio Vivaldi, Piero Toso, I Solisti Veneti, Claudio Scimone",
+      "album": "Les Quatre Saisons",
+      "year": 1973
+    },
+    {
+      "artist": "Arcade Fire",
+      "album": "Arcade Fire",
+      "year": 2018
+    },
+    {
+      "artist": "Arcade Fire",
+      "album": "Everything Now",
+      "year": 2017
+    },
+    {
+      "artist": "Arcade Fire",
+      "album": "The Suburbs",
+      "year": 2010
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "album": "AM",
+      "year": 2013
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "album": "Humbug",
+      "year": 2021
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "album": "Live At The Royal Albert Hall",
+      "year": 2020
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "album": "Suck It And See",
+      "year": 2011
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "album": "The Car",
+      "year": 2022
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "album": "Whatever People Say I Am, That's What I'm Not",
+      "year": 2023
+    },
+    {
+      "artist": "Aretha Franklin",
+      "album": "Lady Soul",
+      "year": 1968
+    },
+    {
+      "artist": "Aretha Franklin",
+      "album": "The Atlantic Singles Collection 1967-1970",
+      "year": 2018
+    },
+    {
+      "artist": "Balthazar (6)",
+      "album": "Fever",
+      "year": 2019
+    },
+    {
+      "artist": "Beastie Boys",
+      "album": "Paul's Boutique",
+      "year": 2017
+    },
+    {
+      "artist": "Bee Gees",
+      "album": "Best Of Bee Gees",
+      "year": 1974
+    },
+    {
+      "artist": "Black Sabbath",
+      "album": "Master Of Reality",
+      "year": 1979
+    },
+    {
+      "artist": "Bob Marley & The Wailers",
+      "album": "Babylon By Bus",
+      "year": 1978
+    },
+    {
+      "artist": "Bob Marley & The Wailers",
+      "album": "Exodus",
+      "year": 1977
+    },
+    {
+      "artist": "Bob Marley & The Wailers",
+      "album": "Kaya",
+      "year": 1979
+    },
+    {
+      "artist": "Bob Marley & The Wailers",
+      "album": "Legend - The Best Of Bob Marley And The Wailers",
+      "year": 2015
+    },
+    {
+      "artist": "Cesaria Evora",
+      "album": "Miss Perfumado",
+      "year": 2020
+    },
+    {
+      "artist": "Chinese Man",
+      "album": "The Groove Sessions Vol. 3",
+      "year": 2014
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Parachutes",
+      "year": 2008
+    },
+    {
+      "artist": "Crosby, Stills & Nash",
+      "album": "CSN",
+      "year": 1977
+    },
+    {
+      "artist": "Crosby, Stills, Nash & Young",
+      "album": "Déjà Vu",
+      "year": null
+    },
+    {
+      "artist": "Daft Punk",
+      "album": "Alive 1997",
+      "year": 2001
+    },
+    {
+      "artist": "Daft Punk",
+      "album": "Alive 2007",
+      "year": 2022
+    },
+    {
+      "artist": "Daft Punk",
+      "album": "Daft Club",
+      "year": 2022
+    },
+    {
+      "artist": "Daft Punk",
+      "album": "Discovery",
+      "year": 2001
+    },
+    {
+      "artist": "Daft Punk",
+      "album": "Homework",
+      "year": 2021
+    },
+    {
+      "artist": "Daft Punk",
+      "album": "Human After All",
+      "year": 2022
+    },
+    {
+      "artist": "Daft Punk",
+      "album": "Random Access Memories",
+      "year": 2017
+    },
+    {
+      "artist": "Daft Punk",
+      "album": "TRON: Legacy Reconfigured",
+      "year": 2022
+    },
+    {
+      "artist": "David Bowie",
+      "album": "\"Heroes\"",
+      "year": 2017
+    },
+    {
+      "artist": "David Bowie",
+      "album": "Diamond Dogs",
+      "year": 1981
+    },
+    {
+      "artist": "De La Soul",
+      "album": "De La Soul Is Dead",
+      "year": 2023
+    },
+    {
+      "artist": "Deep Purple",
+      "album": "Machine Head",
+      "year": 1972
+    },
+    {
+      "artist": "Deftones",
+      "album": "Deftones",
+      "year": 2012
+    },
+    {
+      "artist": "Deftones",
+      "album": "Koi No Yokan",
+      "year": 2012
+    },
+    {
+      "artist": "Depeche Mode",
+      "album": "Violator",
+      "year": 1990
+    },
+    {
+      "artist": "Donna Summer, Roberta Kelly, Giorgio Moroder",
+      "album": "Best Of Disco",
+      "year": 1976
+    },
+    {
+      "artist": "Dr. Dre",
+      "album": "2001",
+      "year": 2022
+    },
+    {
+      "artist": "Dustin O'Halloran, Hauschka",
+      "album": "Lion (Original Motion Picture Soundtrack)",
+      "year": 2017
+    },
+    {
+      "artist": "Eagles",
+      "album": "Hotel California",
+      "year": 1976
+    },
+    {
+      "artist": "Earth, Wind & Fire",
+      "album": "The Best Of Earth, Wind & Fire Vol. 1",
+      "year": 2017
+    },
+    {
+      "artist": "Ella Fitzgerald",
+      "album": "Gold: The Original Classics ",
+      "year": 2015
+    },
+    {
+      "artist": "Elton John",
+      "album": "Greatest Hits",
+      "year": 1984
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP",
+      "year": 2000
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Slim Shady LP",
+      "year": 2013
+    },
+    {
+      "artist": "Ennio Morricone",
+      "album": "Musiques De Films = Colonne Sonore = Original Soundtracks 1971-1990",
+      "year": 2021
+    },
+    {
+      "artist": "Ennio Morricone",
+      "album": "Once Upon A Time In The West - The Original Soundtrack Recording",
+      "year": 1972
+    },
+    {
+      "artist": "Eric Clapton",
+      "album": "461 Ocean Boulevard",
+      "year": 1974
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "album": "Rumours",
+      "year": 1977
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "album": "Romance",
+      "year": 2024
+    },
+    {
+      "artist": "Foo Fighters",
+      "album": "There Is Nothing Left To Lose",
+      "year": 2015
+    },
+    {
+      "artist": "Fugees",
+      "album": "The Score",
+      "year": 2017
+    },
+    {
+      "artist": "Gorillaz",
+      "album": "Demon Days",
+      "year": 2018
+    },
+    {
+      "artist": "Gorillaz",
+      "album": "Humanz",
+      "year": 2017
+    },
+    {
+      "artist": "Hans Zimmer",
+      "album": "Interstellar (Original Motion Picture Soundtrack)",
+      "year": 2015
+    },
+    {
+      "artist": "Harold Faltermeyer",
+      "album": "Axel F (Version Originale)",
+      "year": 1984
+    },
+    {
+      "artist": "Jack White (2)",
+      "album": "Blunderbuss",
+      "year": 2012
+    },
+    {
+      "artist": "Jean Langlais, Guillaume Dufay",
+      "album": "Missa Salve Regina, Missa Sine Nomine",
+      "year": 1956
+    },
+    {
+      "artist": "Jean-Michel Jarre",
+      "album": "Oxygène",
+      "year": 1976
+    },
+    {
+      "artist": "Jerry Lee Lewis",
+      "album": "Original Golden Hits - Volume 2",
+      "year": 1969
+    },
+    {
+      "artist": "Joan Baez",
+      "album": "Diamonds & Rust",
+      "year": null
+    },
+    {
+      "artist": "Justice (3)",
+      "album": "† (Cross)",
+      "year": 2021
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "Damn.",
+      "year": 2022
+    },
+    {
+      "artist": "Lady Gaga, Bradley Cooper",
+      "album": "A Star Is Born Soundtrack",
+      "year": 2018
+    },
+    {
+      "artist": "Lana Del Rey",
+      "album": "Born To Die",
+      "year": 2021
+    },
+    {
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin",
+      "year": 1969
+    },
+    {
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin II",
+      "year": 1969
+    },
+    {
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin III",
+      "year": 1971
+    },
+    {
+      "artist": "Led Zeppelin",
+      "album": "Untitled",
+      "year": null
+    },
+    {
+      "artist": "Leonard Bernstein",
+      "album": "West Side Story (The Original Sound Track Recording)",
+      "year": null
+    },
+    {
+      "artist": "Lynyrd Skynyrd",
+      "album": "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)",
+      "year": 1973
+    },
+    {
+      "artist": "Metallica",
+      "album": "Kill 'Em All",
+      "year": 2016
+    },
+    {
+      "artist": "Metallica",
+      "album": "Master Of Puppets",
+      "year": 2017
+    },
+    {
+      "artist": "Metronomy",
+      "album": "Love Letters",
+      "year": 2014
+    },
+    {
+      "artist": "Metronomy",
+      "album": "Metronomy Forever",
+      "year": 2019
+    },
+    {
+      "artist": "Metronomy",
+      "album": "The English Riviera",
+      "year": 2011
+    },
+    {
+      "artist": "Moderat",
+      "album": "More D4ta",
+      "year": 2022
+    },
+    {
+      "artist": "Nada Surf",
+      "album": "High/Low",
+      "year": 2021
+    },
+    {
+      "artist": "Nas",
+      "album": "Illmatic",
+      "year": null
+    },
+    {
+      "artist": "Neil Young",
+      "album": "After The Gold Rush",
+      "year": 1972
+    },
+    {
+      "artist": "Nina Simone",
+      "album": "Best Of Nina Simone",
+      "year": 2024
+    },
+    {
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York",
+      "year": 2012
+    },
+    {
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "year": 1991
+    },
+    {
+      "artist": "Noel Gallagher's High Flying Birds",
+      "album": "Who Built The Moon?",
+      "year": 2017
+    },
+    {
+      "artist": "Noir Désir",
+      "album": "Veuillez Rendre L'Âme (À Qui Elle Appartient)",
+      "year": 1989
+    },
+    {
+      "artist": "Parcels",
+      "album": "LOVED",
+      "year": 2025
+    },
+    {
+      "artist": "Phoenix",
+      "album": "Wolfgang Amadeus Phoenix",
+      "year": 2009
+    },
+    {
+      "artist": "Pink Floyd",
+      "album": "A Foot In The Door (The Best Of Pink Floyd)",
+      "year": 2018
+    },
+    {
+      "artist": "Pink Floyd",
+      "album": "The Dark Side Of The Moon",
+      "year": 1973
+    },
+    {
+      "artist": "Pink Floyd",
+      "album": "Wish You Were Here",
+      "year": 1976
+    },
+    {
+      "artist": "Queen",
+      "album": "A Night At The Opera",
+      "year": 1976
+    },
+    {
+      "artist": "Queen",
+      "album": "Bohemian Rhapsody (The Original Soundtrack)",
+      "year": 2019
+    },
+    {
+      "artist": "Queens Of The Stone Age",
+      "album": "Era Vulgaris",
+      "year": 2019
+    },
+    {
+      "artist": "Queens Of The Stone Age",
+      "album": "Lullabies To Paralyze",
+      "year": 2019
+    },
+    {
+      "artist": "Queens Of The Stone Age",
+      "album": "Queens Of The Stone Age",
+      "year": 2013
+    },
+    {
+      "artist": "Queens Of The Stone Age",
+      "album": "R",
+      "year": 2019
+    },
+    {
+      "artist": "Queens Of The Stone Age",
+      "album": "Villains",
+      "year": 2017
+    },
+    {
+      "artist": "Radiohead",
+      "album": "A Moon Shaped Pool",
+      "year": null
+    },
+    {
+      "artist": "Radiohead",
+      "album": "OK Computer",
+      "year": 2015
+    },
+    {
+      "artist": "Radiohead",
+      "album": "The Bends",
+      "year": 2016
+    },
+    {
+      "artist": "Rage Against The Machine",
+      "album": "Rage Against The Machine",
+      "year": 2017
+    },
+    {
+      "artist": "Rage Against The Machine",
+      "album": "The Battle Of Los Angeles",
+      "year": 2018
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Blood Sugar Sex Magik",
+      "year": 2012
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Californication",
+      "year": 2012
+    },
+    {
+      "artist": "Richard Wagner",
+      "album": "Ouvertures Et Préludes",
+      "year": null
+    },
+    {
+      "artist": "Scorpions",
+      "album": "Love At First Sting",
+      "year": 1984
+    },
+    {
+      "artist": "Simon & Garfunkel",
+      "album": "Parsley, Sage, Rosemary And Thyme",
+      "year": 1967
+    },
+    {
+      "artist": "System Of A Down",
+      "album": "Hypnotize",
+      "year": 2018
+    },
+    {
+      "artist": "System Of A Down",
+      "album": "Mezmerize",
+      "year": 2018
+    },
+    {
+      "artist": "System Of A Down",
+      "album": "Steal This Album!",
+      "year": 2018
+    },
+    {
+      "artist": "System Of A Down",
+      "album": "Toxicity",
+      "year": 2018
+    },
+    {
+      "artist": "SZA (2)",
+      "album": "Ctrl",
+      "year": 2017
+    },
+    {
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "year": 2022
+    },
+    {
+      "artist": "Tame Impala",
+      "album": "Lonerism",
+      "year": 2014
+    },
+    {
+      "artist": "The Beach Boys",
+      "album": "Pet Sounds",
+      "year": 1977
+    },
+    {
+      "artist": "The Beatles",
+      "album": "1962-1966",
+      "year": 1973
+    },
+    {
+      "artist": "The Beatles",
+      "album": "Revolver",
+      "year": 2012
+    },
+    {
+      "artist": "The Beatles",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band",
+      "year": 1986
+    },
+    {
+      "artist": "The Beatles",
+      "album": "The Beatles",
+      "year": 1968
+    },
+    {
+      "artist": "The Beatles",
+      "album": "The Beatles First",
+      "year": 1974
+    },
+    {
+      "artist": "The Black Keys",
+      "album": "Rubber Factory",
+      "year": 2004
+    },
+    {
+      "artist": "The Black Keys",
+      "album": "The Big Come Up",
+      "year": 2002
+    },
+    {
+      "artist": "The Dead Weather",
+      "album": "Dodge And Burn",
+      "year": 2015
+    },
+    {
+      "artist": "The Jimi Hendrix Experience",
+      "album": "Are You Experienced?",
+      "year": 1967
+    },
+    {
+      "artist": "The Jimi Hendrix Experience",
+      "album": "Axis: Bold As Love",
+      "year": 2010
+    },
+    {
+      "artist": "The Kills",
+      "album": "Ash & Ice",
+      "year": 2016
+    },
+    {
+      "artist": "The Kills",
+      "album": "Blood Pressures",
+      "year": 2011
+    },
+    {
+      "artist": "The Kills",
+      "album": "Midnight Boom",
+      "year": 2010
+    },
+    {
+      "artist": "The Kills",
+      "album": "No Wow",
+      "year": 2014
+    },
+    {
+      "artist": "The Offspring",
+      "album": "Americana",
+      "year": 1998
+    },
+    {
+      "artist": "The Police",
+      "album": "Reggatta De Blanc",
+      "year": 1979
+    },
+    {
+      "artist": "The Rolling Stones",
+      "album": "Milestones",
+      "year": 1978
+    },
+    {
+      "artist": "The Strokes",
+      "album": "Angles",
+      "year": 2011
+    },
+    {
+      "artist": "The Strokes",
+      "album": "First Impressions Of Earth",
+      "year": 2006
+    },
+    {
+      "artist": "The Strokes",
+      "album": "Is This It",
+      "year": 2020
+    },
+    {
+      "artist": "The Strokes",
+      "album": "Room On Fire",
+      "year": 2013
+    },
+    {
+      "artist": "The Supremes",
+      "album": "Anthology",
+      "year": 1984
+    },
+    {
+      "artist": "The Velvet Underground, Nico (3)",
+      "album": "The Velvet Underground & Nico",
+      "year": 1967
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "After Hours",
+      "year": 2020
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Dawn FM",
+      "year": 2022
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "year": 2017
+    },
+    {
+      "artist": "The White Stripes",
+      "album": "The White Stripes",
+      "year": 2022
+    },
+    {
+      "artist": "The White Stripes",
+      "album": "White Blood Cells",
+      "year": 2021
+    },
+    {
+      "artist": "Tool (2)",
+      "album": "Lateralus",
+      "year": 2020
+    },
+    {
+      "artist": "Tool (2)",
+      "album": "Undertow",
+      "year": 2017
+    },
+    {
+      "artist": "Various",
+      "album": "Forrest Gump (The Soundtrack)",
+      "year": 2016
+    },
+    {
+      "artist": "Various",
+      "album": "French Touch Vol. 2",
+      "year": 2022
+    },
+    {
+      "artist": "Various",
+      "album": "Pulp Fiction (Music From The Motion Picture)",
+      "year": 1994
+    },
+    {
+      "artist": "Various",
+      "album": "Reservoir Dogs (Original Motion Picture Soundtrack)",
+      "year": 2012
+    },
+    {
+      "artist": "Various",
+      "album": "Soul City New York",
+      "year": 2013
+    },
+    {
+      "artist": "Various",
+      "album": "Top Gun (Original Motion Picture Soundtrack)",
+      "year": 1986
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers)",
+      "year": 2016
+    },
+    {
+      "artist": "Yeah Yeah Yeahs",
+      "album": "It's Blitz!",
+      "year": 2009
+    }
+  ]
+}

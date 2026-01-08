@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Record Collection</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="top-bar">
+    <h1>Adrien's Records</h1>
+    <div class="top-bar-right">
+      <label class="view-switch">
+        <span class="view-switch-label">View</span>
+        <select id="view-select">
+          <option value="collection">Collection</option>
+          <option value="wantlist">Wantlist</option>
+        </select>
+      </label>
+      <button id="theme-toggle" type="button" aria-label="Toggle dark/light theme">
+        <span class="theme-toggle-icon" aria-hidden="true"></span>
+        <span class="theme-toggle-label">Toggle dark/light theme</span>
+      </button>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <section class="controls">
+      <input
+        id="search"
+        type="search"
+        placeholder="Search by artist or album..."
+        autocomplete="off"
+      />
+      <span id="count" class="count"></span>
+    </section>
+
+    <section class="table-wrapper">
+      <table id="collection-table">
+        <thead>
+          <tr>
+            <th scope="col" data-key="artist">Artist</th>
+            <th scope="col" data-key="album">Album</th>
+            <th scope="col" data-key="year">Year</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td colspan="3" class="loading">Loading collection...</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <footer class="footer">
+      <span id="last-updated" class="last-updated"></span>
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

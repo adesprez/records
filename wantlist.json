@@ -1,0 +1,70 @@
+{
+  "updated_at": "2026-01-08T14:24:21.992236+00:00",
+  "items": [
+    {
+      "artist": "A Tribe Called Quest",
+      "album": "The Low End Theory",
+      "year": 2016
+    },
+    {
+      "artist": "Adele (3)",
+      "album": "21",
+      "year": 2015
+    },
+    {
+      "artist": "Blur",
+      "album": "Parklife",
+      "year": 2018
+    },
+    {
+      "artist": "Blur",
+      "album": "Parklife",
+      "year": 2009
+    },
+    {
+      "artist": "Blur",
+      "album": "The Great Escape",
+      "year": 2012
+    },
+    {
+      "artist": "Claude Nougaro",
+      "album": "Best Of",
+      "year": 2019
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP 2",
+      "year": 2013
+    },
+    {
+      "artist": "Jalen N'Gonda",
+      "album": "Come Around And Love Me",
+      "year": 2023
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "To Pimp A Butterfly",
+      "year": 2022
+    },
+    {
+      "artist": "Neil Young",
+      "album": "Harvest",
+      "year": 2009
+    },
+    {
+      "artist": "Radiohead",
+      "album": "In Rainbows",
+      "year": 2016
+    },
+    {
+      "artist": "Tool (2)",
+      "album": "Ænima",
+      "year": null
+    },
+    {
+      "artist": "Tracy Chapman",
+      "album": "Tracy Chapman",
+      "year": 1988
+    }
+  ]
+}
