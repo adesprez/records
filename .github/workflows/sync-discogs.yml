@@ -32,10 +32,10 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          if git status --porcelain | grep -E 'collection.json|wantlist.json'; then
+          if git status --porcelain | grep -E 'collection.json|wantlist.json|masters_cache.json'; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add collection.json wantlist.json
+            git add collection.json wantlist.json masters_cache.json
             git commit -m "chore: update Discogs data"
             git push
           else

@@ -1,11 +1,13 @@
 import os
 import json
 import sys
+from pathlib import Path
 from typing import Any, Dict, List
 
 import requests
 
 DISCOGS_API_BASE = "https://api.discogs.com"
+CACHE_FILENAME = "masters_cache.json"
 
 
 def _fetch_paginated(
@@ -19,6 +21,16 @@ def _fetch_paginated(
     while page <= pages_total:
         params = {"per_page": per_page, "page": page}
         resp = requests.get(url, headers=headers, params=params, timeout=30)
+
+        if resp.status_code == 429:
+            # Respect basic rate limiting using Retry-After when available
+            # retry_after = int(resp.headers.get("Retry-After", "5"))
+            # import time
+
+            # time.sleep(retry_after)
+            # continue
+            raise Warning(f"We are hitting Discogs API rate limits")
+
         if resp.status_code != 200:
             raise RuntimeError(
                 f"Discogs API error on page {page}: {resp.status_code} {resp.text}"
@@ -32,11 +44,55 @@ def _fetch_paginated(
     return items
 
 
-def fetch_collection(username: str, token: str) -> List[Dict[str, Any]]:
-    headers = {
-        "User-Agent": "discogs-collection-sync-python/1.0",
-        "Authorization": f"Discogs token={token}",
-    }
+def _load_master_cache(base_dir: str) -> Dict[str, Any]:
+    cache_path = Path(base_dir) / CACHE_FILENAME
+    if not cache_path.exists():
+        # Initialize an empty cache file for better visibility
+        with cache_path.open("w", encoding="utf-8") as f:
+            json.dump({}, f, ensure_ascii=False, indent=2)
+        return {}
+    try:
+        with cache_path.open("r", encoding="utf-8") as f:
+            data = json.load(f)
+        if isinstance(data, dict):
+            return data
+    except Exception:
+        return {}
+    return {}
+
+
+def _save_master_cache(base_dir: str, cache: Dict[str, Any]) -> None:
+    cache_path = Path(base_dir) / CACHE_FILENAME
+    with cache_path.open("w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=2)
+
+
+def _get_master_year(
+    master_id: int,
+    headers: Dict[str, str],
+    base_dir: str,
+    master_cache: Dict[str, Any],
+) -> Any:
+    url = f"{DISCOGS_API_BASE}/masters/{master_id}"
+    resp = requests.get(url, headers=headers, timeout=30)
+    if resp.status_code != 200:
+        return None
+    data = resp.json()
+    year = data.get("year") or None
+    key = str(master_id)
+    master_cache[key] = year
+    print(f"[discogs] master {master_id} -> year {year}")
+    _save_master_cache(base_dir, master_cache)
+    return year
+
+
+def fetch_collection(
+    username: str,
+    token: str,
+    headers: Dict[str, str],
+    base_dir: str,
+    master_cache: Dict[str, Any],
+) -> List[Dict[str, Any]]:
     url = f"{DISCOGS_API_BASE}/users/{username}/collection/folders/0/releases"
     all_releases = _fetch_paginated(url, headers, "releases")
 
@@ -45,11 +101,26 @@ def fetch_collection(username: str, token: str) -> List[Dict[str, Any]]:
         info = entry.get("basic_information", {})
         artists = info.get("artists", []) or []
         artist_names = ", ".join(a.get("name", "") for a in artists if a.get("name"))
+
+        release_year = info.get("year") or None
+        master_id = info.get("master_id")
+        if isinstance(master_id, int):
+            key = str(master_id)
+            if key in master_cache:
+                master_year = master_cache[key]
+            else:
+                master_year = _get_master_year(
+                    master_id, headers, base_dir, master_cache
+                )
+            year = master_year or release_year
+        else:
+            year = release_year
+
         simplified.append(
             {
                 "artist": artist_names,
                 "album": info.get("title", ""),
-                "year": info.get("year", "") or None,
+                "year": year,
             }
         )
 
@@ -58,11 +129,13 @@ def fetch_collection(username: str, token: str) -> List[Dict[str, Any]]:
     return simplified
 
 
-def fetch_wantlist(username: str, token: str) -> List[Dict[str, Any]]:
-    headers = {
-        "User-Agent": "discogs-collection-sync-python/1.0",
-        "Authorization": f"Discogs token={token}",
-    }
+def fetch_wantlist(
+    username: str,
+    token: str,
+    headers: Dict[str, str],
+    base_dir: str,
+    master_cache: Dict[str, Any],
+) -> List[Dict[str, Any]]:
     url = f"{DISCOGS_API_BASE}/users/{username}/wants"
     all_items = _fetch_paginated(url, headers, "wants")
 
@@ -71,11 +144,26 @@ def fetch_wantlist(username: str, token: str) -> List[Dict[str, Any]]:
         info = entry.get("basic_information", {})
         artists = info.get("artists", []) or []
         artist_names = ", ".join(a.get("name", "") for a in artists if a.get("name"))
+
+        release_year = info.get("year") or None
+        master_id = info.get("master_id")
+        if isinstance(master_id, int):
+            key = str(master_id)
+            if key in master_cache:
+                master_year = master_cache[key]
+            else:
+                master_year = _get_master_year(
+                    master_id, headers, base_dir, master_cache
+                )
+            year = master_year or release_year
+        else:
+            year = release_year
+
         simplified.append(
             {
                 "artist": artist_names,
                 "album": info.get("title", ""),
-                "year": info.get("year", "") or None,
+                "year": year,
             }
         )
 
@@ -94,12 +182,22 @@ def main() -> int:
         )
         return 1
 
+    headers = {
+        "User-Agent": "discogs-collection-sync-python/1.0",
+        "Authorization": f"Discogs token={token}",
+    }
+
+    base_dir = os.path.dirname(__file__)
+    master_cache = _load_master_cache(base_dir)
+
     try:
-        collection = fetch_collection(username, token)
-        wantlist = fetch_wantlist(username, token)
+        collection = fetch_collection(username, token, headers, base_dir, master_cache)
+        wantlist = fetch_wantlist(username, token, headers, base_dir, master_cache)
     except Exception as exc:  # pylint: disable=broad-except
         print(f"Failed to fetch data from Discogs: {exc}")
         return 1
+
+    _save_master_cache(base_dir, master_cache)
 
     payload = {
         "updated_at": __import__("datetime")
@@ -114,7 +212,6 @@ def main() -> int:
         "items": wantlist,
     }
 
-    base_dir = os.path.dirname(__file__)
     collection_path = os.path.join(base_dir, "collection.json")
     wantlist_path = os.path.join(base_dir, "wantlist.json")
 
