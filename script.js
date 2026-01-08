@@ -31,6 +31,8 @@
   let collectionData = null;
   let wantlistData = null;
   let currentSort = { key: 'artist', direction: 'asc' };
+  let collectionMeta = null;
+  let wantlistMeta = null;
 
   function renderTable(data) {
     const tbody = document.querySelector('#collection-table tbody');
@@ -183,21 +185,19 @@
       }
 
       const collectionJson = await collectionRes.json();
+      collectionMeta = collectionJson;
       collectionData = collectionJson.items || [];
 
       if (wantlistRes.ok) {
         const wantlistJson = await wantlistRes.json();
+        wantlistMeta = wantlistJson;
         wantlistData = wantlistJson.items || [];
-        if (currentView === 'wantlist') {
-          updateLastUpdated(wantlistJson);
-        }
       } else {
         wantlistData = [];
+        wantlistMeta = null;
       }
 
-      if (currentView === 'collection') {
-        updateLastUpdated(collectionJson);
-      }
+      updateLastUpdated(currentView === 'wantlist' ? wantlistMeta : collectionMeta);
 
       applySearchAndSort();
       setupSearch();
@@ -226,8 +226,8 @@
     select.addEventListener('change', () => {
       currentView = select.value === 'wantlist' ? 'wantlist' : 'collection';
 
-      const meta = currentView === 'wantlist' ? { updated_at: (window.__wantlistMeta || {}).updated_at } : window.__collectionMeta;
-      // Reuse stored JSON meta when available
+      const meta = currentView === 'wantlist' ? wantlistMeta : collectionMeta;
+      updateLastUpdated(meta);
       applySearchAndSort();
     });
   }
