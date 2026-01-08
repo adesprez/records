@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-08T17:34:34.516493+00:00",
+  "updated_at": "2026-01-08T17:42:36.485445+00:00",
   "items": [
     {
       "artist": "A Tribe Called Quest",
@@ -49,11 +49,7 @@
     {
       "artist": "Neil Young",
       "album": "Harvest",
-<<<<<<< HEAD
-      "year": 2009
-=======
       "year": 1972
->>>>>>> 0dcd916 (cache masters year, use them as a reference, otherwise, use the release year)
     },
     {
       "artist": "Tool (2)",

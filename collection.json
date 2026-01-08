@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-08T17:34:34.516478+00:00",
+  "updated_at": "2026-01-08T17:42:36.485431+00:00",
   "items": [
     {
       "artist": "A Tribe Called Quest",
@@ -417,11 +417,6 @@
       "year": 2000
     },
     {
-      "artist": "Linkin Park",
-      "album": "Hybrid Theory",
-      "year": 2022
-    },
-    {
       "artist": "Lynyrd Skynyrd",
       "album": "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)",
       "year": 1973
@@ -565,11 +560,6 @@
       "artist": "Radiohead",
       "album": "In Rainbows",
       "year": 2007
-    },
-    {
-      "artist": "Radiohead",
-      "album": "In Rainbows",
-      "year": 2022
     },
     {
       "artist": "Radiohead",
