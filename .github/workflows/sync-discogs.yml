@@ -1,4 +1,4 @@
-name: Sync Discogs Collection
+name: sync-discogs-collection
 
 on:
   schedule:
