@@ -32,6 +32,7 @@ jobs:
 
       - name: Commit and push if changed
         run: |
+          git diff
           if git status --porcelain | grep -E 'collection.json|wantlist.json|masters_cache.json'; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
