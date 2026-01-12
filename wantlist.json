@@ -1,64 +1,76 @@
 {
-  "updated_at": "2026-01-12T04:05:41.699790+00:00",
+  "updated_at": "2026-01-12T09:47:46.264371+00:00",
   "items": [
     {
       "artist": "A Tribe Called Quest",
       "album": "The Low End Theory",
+      "genre": "Hip Hop",
       "year": 1991
     },
     {
       "artist": "Adele (3)",
       "album": "21",
+      "genre": "Funk / Soul, Blues, Pop",
       "year": 2011
     },
     {
       "artist": "Blur",
       "album": "Parklife",
+      "genre": "Rock",
       "year": 1994
     },
     {
       "artist": "Blur",
       "album": "Parklife",
+      "genre": "Rock",
       "year": 1994
     },
     {
       "artist": "Blur",
       "album": "The Great Escape",
+      "genre": "Rock",
       "year": 1995
     },
     {
       "artist": "Claude Nougaro",
       "album": "Best Of",
+      "genre": "Jazz",
       "year": 2019
     },
     {
       "artist": "Eminem",
       "album": "The Marshall Mathers LP 2",
+      "genre": "Hip Hop",
       "year": 2013
     },
     {
       "artist": "Jalen N'Gonda",
       "album": "Come Around And Love Me",
+      "genre": "Funk / Soul",
       "year": 2023
     },
     {
       "artist": "Kendrick Lamar",
       "album": "To Pimp A Butterfly",
+      "genre": "Hip Hop, Jazz, Funk / Soul",
       "year": 2015
     },
     {
       "artist": "Neil Young",
       "album": "Harvest",
+      "genre": "Rock",
       "year": 1972
     },
     {
       "artist": "Tool (2)",
       "album": "Ænima",
+      "genre": "Rock",
       "year": 1996
     },
     {
       "artist": "Tracy Chapman",
       "album": "Tracy Chapman",
+      "genre": "Rock",
       "year": 1988
     }
   ]

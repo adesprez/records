@@ -1,839 +1,1006 @@
 {
-  "updated_at": "2026-01-12T04:05:41.699775+00:00",
+  "updated_at": "2026-01-12T09:47:46.264352+00:00",
   "items": [
     {
       "artist": "A Tribe Called Quest",
       "album": "Midnight Marauders",
+      "genre": "Hip Hop",
       "year": 1993
     },
     {
       "artist": "AC/DC",
       "album": "Back In Black",
+      "genre": "Rock",
       "year": 1980
     },
     {
       "artist": "AC/DC",
       "album": "For Those About To Rock We Salute You",
+      "genre": "Rock",
       "year": 1981
     },
     {
       "artist": "AC/DC",
       "album": "Live",
+      "genre": "Rock",
       "year": 1992
     },
     {
       "artist": "Aerosmith",
       "album": "Pump",
+      "genre": "Rock",
       "year": 1989
     },
     {
       "artist": "AIR",
       "album": "Moon Safari",
+      "genre": "Electronic",
       "year": 1998
     },
     {
       "artist": "America (2)",
       "album": "America",
+      "genre": "Rock",
       "year": 1971
     },
     {
       "artist": "Amy Winehouse",
       "album": "Back To Black",
+      "genre": "Funk / Soul",
       "year": 2006
     },
     {
       "artist": "Antonio Vivaldi, Piero Toso, I Solisti Veneti, Claudio Scimone",
       "album": "Les Quatre Saisons",
+      "genre": "Classical",
       "year": 1973
     },
     {
       "artist": "Arcade Fire",
       "album": "Arcade Fire",
+      "genre": "Rock",
       "year": 2003
     },
     {
       "artist": "Arcade Fire",
       "album": "Everything Now",
+      "genre": "Rock, Pop",
       "year": 2017
     },
     {
       "artist": "Arcade Fire",
       "album": "The Suburbs",
+      "genre": "Rock",
       "year": 2010
     },
     {
       "artist": "Arctic Monkeys",
       "album": "AM",
+      "genre": "Rock",
       "year": 2013
     },
     {
       "artist": "Arctic Monkeys",
       "album": "Humbug",
+      "genre": "Rock",
       "year": 2009
     },
     {
       "artist": "Arctic Monkeys",
       "album": "Live At The Royal Albert Hall",
+      "genre": "Rock",
       "year": 2020
     },
     {
       "artist": "Arctic Monkeys",
       "album": "Suck It And See",
+      "genre": "Rock",
       "year": 2011
     },
     {
       "artist": "Arctic Monkeys",
       "album": "The Car",
+      "genre": "Rock",
       "year": 2022
     },
     {
       "artist": "Arctic Monkeys",
       "album": "Whatever People Say I Am, That's What I'm Not",
+      "genre": "Rock",
       "year": 2006
     },
     {
       "artist": "Aretha Franklin",
       "album": "Lady Soul",
+      "genre": "Funk / Soul",
       "year": 1968
     },
     {
       "artist": "Aretha Franklin",
       "album": "The Atlantic Singles Collection 1967-1970",
+      "genre": "Funk / Soul",
       "year": 2018
     },
     {
       "artist": "Balthazar (6)",
       "album": "Fever",
+      "genre": "Rock, Pop",
       "year": 2019
     },
     {
       "artist": "Beastie Boys",
       "album": "Paul's Boutique",
+      "genre": "Electronic, Hip Hop",
       "year": 1989
     },
     {
       "artist": "Bee Gees",
       "album": "Best Of Bee Gees",
+      "genre": "Rock, Pop",
       "year": 1974
     },
     {
       "artist": "Black Sabbath",
       "album": "Master Of Reality",
+      "genre": "Rock",
       "year": 1971
     },
     {
       "artist": "Bob Marley & The Wailers",
       "album": "Babylon By Bus",
+      "genre": "Reggae",
       "year": 1978
     },
     {
       "artist": "Bob Marley & The Wailers",
       "album": "Exodus",
+      "genre": "Reggae",
       "year": 1977
     },
     {
       "artist": "Bob Marley & The Wailers",
       "album": "Kaya",
+      "genre": "Reggae",
       "year": 1978
     },
     {
       "artist": "Bob Marley & The Wailers",
       "album": "Legend - The Best Of Bob Marley And The Wailers",
+      "genre": "Reggae",
       "year": 1984
     },
     {
       "artist": "Cesaria Evora",
       "album": "Miss Perfumado",
+      "genre": "Latin, Folk, World, & Country",
       "year": 1992
     },
     {
       "artist": "Chinese Man",
       "album": "The Groove Sessions Vol. 3",
+      "genre": "Electronic, Hip Hop, Jazz, Reggae",
       "year": 2014
     },
     {
       "artist": "Coldplay",
       "album": "Parachutes",
+      "genre": "Rock",
       "year": 2000
     },
     {
       "artist": "Crosby, Stills & Nash",
       "album": "CSN",
+      "genre": "Rock",
       "year": 1977
     },
     {
       "artist": "Crosby, Stills, Nash & Young",
       "album": "Déjà Vu",
+      "genre": "Rock",
       "year": 1970
     },
     {
       "artist": "Daft Punk",
       "album": "Alive 1997",
+      "genre": "Electronic",
       "year": 2001
     },
     {
       "artist": "Daft Punk",
       "album": "Alive 2007",
+      "genre": "Electronic",
       "year": 2007
     },
     {
       "artist": "Daft Punk",
       "album": "Daft Club",
+      "genre": "Electronic, Hip Hop",
       "year": 2022
     },
     {
       "artist": "Daft Punk",
       "album": "Discovery",
+      "genre": "Electronic",
       "year": 2001
     },
     {
       "artist": "Daft Punk",
       "album": "Homework",
+      "genre": "Electronic",
       "year": 1997
     },
     {
       "artist": "Daft Punk",
       "album": "Human After All",
+      "genre": "Electronic",
       "year": 2005
     },
     {
       "artist": "Daft Punk",
       "album": "Random Access Memories",
+      "genre": "Electronic, Pop",
       "year": 2013
     },
     {
       "artist": "Daft Punk",
       "album": "TRON: Legacy Reconfigured",
+      "genre": "Electronic, Stage & Screen",
       "year": 2011
     },
     {
       "artist": "David Bowie",
       "album": "\"Heroes\"",
+      "genre": "Rock",
       "year": 1977
     },
     {
       "artist": "David Bowie",
       "album": "Diamond Dogs",
+      "genre": "Rock",
       "year": 1974
     },
     {
       "artist": "De La Soul",
       "album": "De La Soul Is Dead",
+      "genre": "Hip Hop",
       "year": 1991
     },
     {
       "artist": "Deep Purple",
       "album": "Machine Head",
+      "genre": "Rock",
       "year": 1972
     },
     {
       "artist": "Deftones",
       "album": "Deftones",
+      "genre": "Rock",
       "year": 2003
     },
     {
       "artist": "Deftones",
       "album": "Koi No Yokan",
+      "genre": "Rock",
       "year": 2012
     },
     {
       "artist": "Depeche Mode",
       "album": "Violator",
+      "genre": "Electronic",
       "year": 1990
     },
     {
       "artist": "Donna Summer, Roberta Kelly, Giorgio Moroder",
       "album": "Best Of Disco",
+      "genre": "Electronic, Funk / Soul",
       "year": 1976
     },
     {
       "artist": "Dr. Dre",
       "album": "2001",
+      "genre": "Hip Hop",
       "year": 1999
     },
     {
       "artist": "Dustin O'Halloran, Hauschka",
       "album": "Lion (Original Motion Picture Soundtrack)",
+      "genre": "Electronic, Classical, Stage & Screen",
       "year": 2016
     },
     {
       "artist": "Eagles",
       "album": "Hotel California",
+      "genre": "Rock",
       "year": 1976
     },
     {
       "artist": "Earth, Wind & Fire",
       "album": "The Best Of Earth, Wind & Fire Vol. 1",
+      "genre": "Funk / Soul",
       "year": 1978
     },
     {
       "artist": "Ella Fitzgerald",
       "album": "Gold: The Original Classics ",
+      "genre": "Jazz",
       "year": 2015
     },
     {
       "artist": "Elton John",
       "album": "Greatest Hits",
+      "genre": "Pop",
       "year": 1974
     },
     {
       "artist": "Eminem",
       "album": "The Marshall Mathers LP",
+      "genre": "Hip Hop",
       "year": 2000
     },
     {
       "artist": "Eminem",
       "album": "The Slim Shady LP",
+      "genre": "Hip Hop",
       "year": 1999
     },
     {
       "artist": "Ennio Morricone",
       "album": "Musiques De Films = Colonne Sonore = Original Soundtracks 1971-1990",
+      "genre": "Stage & Screen",
       "year": 2021
     },
     {
       "artist": "Ennio Morricone",
       "album": "Once Upon A Time In The West - The Original Soundtrack Recording",
+      "genre": "Classical, Stage & Screen",
       "year": 1969
     },
     {
       "artist": "Eric Clapton",
       "album": "461 Ocean Boulevard",
+      "genre": "Rock",
       "year": 1974
     },
     {
       "artist": "Fleetwood Mac",
       "album": "Rumours",
+      "genre": "Rock, Pop",
       "year": 1977
     },
     {
       "artist": "Fontaines D.C.",
       "album": "Romance",
+      "genre": "Rock, Pop",
       "year": 2024
     },
     {
       "artist": "Foo Fighters",
       "album": "There Is Nothing Left To Lose",
+      "genre": "Rock",
       "year": 1999
     },
     {
       "artist": "Fugees",
       "album": "The Score",
+      "genre": "Hip Hop",
       "year": 1996
     },
     {
       "artist": "Gorillaz",
       "album": "Demon Days",
+      "genre": "Electronic, Hip Hop, Rock",
       "year": 2005
     },
     {
       "artist": "Gorillaz",
       "album": "Humanz",
+      "genre": "Electronic, Hip Hop, Pop",
       "year": 2017
     },
     {
       "artist": "Hans Zimmer",
       "album": "Interstellar (Original Motion Picture Soundtrack)",
+      "genre": "Electronic, Classical, Stage & Screen",
       "year": 2014
     },
     {
       "artist": "Harold Faltermeyer",
       "album": "Axel F (Version Originale)",
+      "genre": "Electronic, Pop, Stage & Screen",
       "year": 1984
     },
     {
       "artist": "Jack White (2)",
       "album": "Blunderbuss",
+      "genre": "Rock",
       "year": 2012
     },
     {
       "artist": "Jean Langlais, Guillaume Dufay",
       "album": "Missa Salve Regina, Missa Sine Nomine",
+      "genre": "Classical",
       "year": 1956
     },
     {
       "artist": "Jean-Michel Jarre",
       "album": "Oxygène",
+      "genre": "Electronic",
       "year": 1976
     },
     {
       "artist": "Jerry Lee Lewis",
       "album": "Original Golden Hits - Volume 2",
+      "genre": "Rock",
       "year": 1969
     },
     {
       "artist": "Joan Baez",
       "album": "Diamonds & Rust",
+      "genre": "Folk, World, & Country",
       "year": 1975
     },
     {
       "artist": "Justice (3)",
       "album": "† (Cross)",
+      "genre": "Electronic",
       "year": 2007
     },
     {
       "artist": "Kendrick Lamar",
       "album": "Damn.",
+      "genre": "Hip Hop",
       "year": 2017
     },
     {
       "artist": "Lady Gaga, Bradley Cooper",
       "album": "A Star Is Born Soundtrack",
+      "genre": "Rock, Non-Music, Pop, Stage & Screen",
       "year": 2018
     },
     {
       "artist": "Lana Del Rey",
       "album": "Born To Die",
+      "genre": "Rock, Funk / Soul, Pop",
       "year": 2012
     },
     {
       "artist": "Led Zeppelin",
       "album": "Led Zeppelin",
+      "genre": "Rock",
       "year": 1969
     },
     {
       "artist": "Led Zeppelin",
       "album": "Led Zeppelin II",
+      "genre": "Rock",
       "year": 1969
     },
     {
       "artist": "Led Zeppelin",
       "album": "Led Zeppelin III",
+      "genre": "Rock",
       "year": 1970
     },
     {
       "artist": "Led Zeppelin",
       "album": "Untitled",
+      "genre": "Rock",
       "year": 1971
     },
     {
       "artist": "Leonard Bernstein",
       "album": "West Side Story (The Original Sound Track Recording)",
+      "genre": "Jazz, Latin, Classical",
       "year": 1961
     },
     {
       "artist": "Linkin Park",
       "album": "Hybrid Theory",
+      "genre": "Rock",
       "year": 2000
     },
     {
       "artist": "Lynyrd Skynyrd",
       "album": "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)",
+      "genre": "Rock",
       "year": 1973
     },
     {
       "artist": "Metallica",
       "album": "Kill 'Em All",
+      "genre": "Rock",
       "year": 1983
     },
     {
       "artist": "Metallica",
       "album": "Master Of Puppets",
+      "genre": "Rock",
       "year": 1986
     },
     {
       "artist": "Metronomy",
       "album": "Love Letters",
+      "genre": "Electronic, Pop",
       "year": 2014
     },
     {
       "artist": "Metronomy",
       "album": "Metronomy Forever",
+      "genre": "Electronic, Pop",
       "year": 2019
     },
     {
       "artist": "Metronomy",
       "album": "The English Riviera",
+      "genre": "Electronic, Rock, Pop",
       "year": 2011
     },
     {
       "artist": "Moderat",
       "album": "More D4ta",
+      "genre": "Electronic",
       "year": 2022
     },
     {
       "artist": "Nada Surf",
       "album": "High/Low",
+      "genre": "Rock",
       "year": 1996
     },
     {
       "artist": "Nas",
       "album": "Illmatic",
+      "genre": "Hip Hop",
       "year": 1994
     },
     {
       "artist": "Neil Young",
       "album": "After The Gold Rush",
+      "genre": "Rock",
       "year": 1970
     },
     {
       "artist": "Nina Simone",
       "album": "Best Of Nina Simone",
+      "genre": "Jazz, Funk / Soul",
       "year": 2023
     },
     {
       "artist": "Nirvana",
       "album": "MTV Unplugged In New York",
+      "genre": "Rock",
       "year": 1994
     },
     {
       "artist": "Nirvana",
       "album": "Nevermind",
+      "genre": "Rock",
       "year": 1991
     },
     {
       "artist": "Noel Gallagher's High Flying Birds",
       "album": "Who Built The Moon?",
+      "genre": "Rock",
       "year": 2017
     },
     {
       "artist": "Noir Désir",
       "album": "Veuillez Rendre L'Âme (À Qui Elle Appartient)",
+      "genre": "Rock",
       "year": 1989
     },
     {
       "artist": "Parcels",
       "album": "LOVED",
+      "genre": "Electronic, Rock, Pop",
       "year": 2025
     },
     {
       "artist": "Phoenix",
       "album": "Wolfgang Amadeus Phoenix",
+      "genre": "Rock",
       "year": 2009
     },
     {
       "artist": "Pink Floyd",
       "album": "A Foot In The Door (The Best Of Pink Floyd)",
+      "genre": "Rock",
       "year": 2011
     },
     {
       "artist": "Pink Floyd",
       "album": "The Dark Side Of The Moon",
+      "genre": "Rock",
       "year": 1973
     },
     {
       "artist": "Pink Floyd",
       "album": "Wish You Were Here",
+      "genre": "Rock",
       "year": 1975
     },
     {
       "artist": "Queen",
       "album": "A Night At The Opera",
+      "genre": "Rock",
       "year": 1975
     },
     {
       "artist": "Queen",
       "album": "Bohemian Rhapsody (The Original Soundtrack)",
+      "genre": "Rock, Stage & Screen",
       "year": 2018
     },
     {
       "artist": "Queens Of The Stone Age",
       "album": "Era Vulgaris",
+      "genre": "Rock",
       "year": 2007
     },
     {
       "artist": "Queens Of The Stone Age",
       "album": "Lullabies To Paralyze",
+      "genre": "Rock",
       "year": 2005
     },
     {
       "artist": "Queens Of The Stone Age",
       "album": "Queens Of The Stone Age",
+      "genre": "Rock",
       "year": 1998
     },
     {
       "artist": "Queens Of The Stone Age",
       "album": "R",
+      "genre": "Rock",
       "year": 2000
     },
     {
       "artist": "Queens Of The Stone Age",
       "album": "Villains",
+      "genre": "Rock",
       "year": 2017
     },
     {
       "artist": "Radiohead",
       "album": "A Moon Shaped Pool",
+      "genre": "Electronic, Rock",
       "year": 2016
     },
     {
       "artist": "Radiohead",
       "album": "In Rainbows",
+      "genre": "Electronic, Rock",
       "year": 2007
     },
     {
       "artist": "Radiohead",
       "album": "OK Computer",
+      "genre": "Electronic, Rock, Pop",
       "year": 1997
     },
     {
       "artist": "Radiohead",
       "album": "The Bends",
+      "genre": "Rock",
       "year": 1995
     },
     {
       "artist": "Rage Against The Machine",
       "album": "Rage Against The Machine",
+      "genre": "Hip Hop, Rock",
       "year": 1992
     },
     {
       "artist": "Rage Against The Machine",
       "album": "The Battle Of Los Angeles",
+      "genre": "Hip Hop, Rock",
       "year": 1999
     },
     {
       "artist": "Red Hot Chili Peppers",
       "album": "Blood Sugar Sex Magik",
+      "genre": "Hip Hop, Rock, Funk / Soul",
       "year": 1991
     },
     {
       "artist": "Red Hot Chili Peppers",
       "album": "Californication",
+      "genre": "Rock",
       "year": 1999
     },
     {
       "artist": "Richard Wagner",
       "album": "Ouvertures Et Préludes",
+      "genre": "Classical",
       "year": null
     },
     {
       "artist": "Scorpions",
       "album": "Love At First Sting",
+      "genre": "Rock",
       "year": 1984
     },
     {
       "artist": "Simon & Garfunkel",
       "album": "Parsley, Sage, Rosemary And Thyme",
+      "genre": "Rock, Pop",
       "year": 1966
     },
     {
       "artist": "System Of A Down",
       "album": "Hypnotize",
+      "genre": "Rock",
       "year": 2005
     },
     {
       "artist": "System Of A Down",
       "album": "Mezmerize",
+      "genre": "Rock",
       "year": 2005
     },
     {
       "artist": "System Of A Down",
       "album": "Steal This Album!",
+      "genre": "Rock",
       "year": 2002
     },
     {
       "artist": "System Of A Down",
       "album": "Toxicity",
+      "genre": "Rock",
       "year": 2001
     },
     {
       "artist": "SZA (2)",
       "album": "Ctrl",
+      "genre": "Funk / Soul",
       "year": 2017
     },
     {
       "artist": "Tame Impala",
       "album": "Currents",
+      "genre": "Rock",
       "year": 2015
     },
     {
       "artist": "Tame Impala",
       "album": "Lonerism",
+      "genre": "Rock",
       "year": 2012
     },
     {
       "artist": "The Beach Boys",
       "album": "Pet Sounds",
+      "genre": "Rock, Pop",
       "year": 1966
     },
     {
       "artist": "The Beatles",
       "album": "1962-1966",
+      "genre": "Rock",
       "year": 1973
     },
     {
       "artist": "The Beatles",
       "album": "Revolver",
+      "genre": "Rock",
       "year": 1966
     },
     {
       "artist": "The Beatles",
       "album": "Sgt. Pepper's Lonely Hearts Club Band",
+      "genre": "Rock",
       "year": 1967
     },
     {
       "artist": "The Beatles",
       "album": "The Beatles",
+      "genre": "Rock",
       "year": 1968
     },
     {
       "artist": "The Beatles",
       "album": "The Beatles First",
+      "genre": "Rock",
       "year": 1974
     },
     {
       "artist": "The Black Keys",
       "album": "Rubber Factory",
+      "genre": "Rock",
       "year": 2004
     },
     {
       "artist": "The Black Keys",
       "album": "The Big Come Up",
+      "genre": "Rock, Blues",
       "year": 2002
     },
     {
       "artist": "The Dead Weather",
       "album": "Dodge And Burn",
+      "genre": "Rock",
       "year": 2015
     },
     {
       "artist": "The Jimi Hendrix Experience",
       "album": "Are You Experienced?",
+      "genre": "Rock",
       "year": 1967
     },
     {
       "artist": "The Jimi Hendrix Experience",
       "album": "Axis: Bold As Love",
+      "genre": "Rock",
       "year": 1967
     },
     {
       "artist": "The Kills",
       "album": "Ash & Ice",
+      "genre": "Rock",
       "year": 2016
     },
     {
       "artist": "The Kills",
       "album": "Blood Pressures",
+      "genre": "Rock",
       "year": 2011
     },
     {
       "artist": "The Kills",
       "album": "Midnight Boom",
+      "genre": "Rock",
       "year": 2008
     },
     {
       "artist": "The Kills",
       "album": "No Wow",
+      "genre": "Rock",
       "year": 2005
     },
     {
       "artist": "The Offspring",
       "album": "Americana",
+      "genre": "Rock",
       "year": 1998
     },
     {
       "artist": "The Police",
       "album": "Reggatta De Blanc",
+      "genre": "Rock",
       "year": 1979
     },
     {
       "artist": "The Rolling Stones",
       "album": "Milestones",
+      "genre": "Rock",
       "year": 1971
     },
     {
       "artist": "The Strokes",
       "album": "Angles",
+      "genre": "Rock",
       "year": 2011
     },
     {
       "artist": "The Strokes",
       "album": "First Impressions Of Earth",
+      "genre": "Rock",
       "year": 2006
     },
     {
       "artist": "The Strokes",
       "album": "Is This It",
+      "genre": "Rock",
       "year": 2001
     },
     {
       "artist": "The Strokes",
       "album": "Room On Fire",
+      "genre": "Rock",
       "year": 2003
     },
     {
       "artist": "The Supremes",
       "album": "Anthology",
+      "genre": "Funk / Soul",
       "year": 1974
     },
     {
       "artist": "The Velvet Underground, Nico (3)",
       "album": "The Velvet Underground & Nico",
+      "genre": "Rock",
       "year": 1967
     },
     {
       "artist": "The Weeknd",
       "album": "After Hours",
+      "genre": "Electronic, Hip Hop, Funk / Soul, Pop",
       "year": 2020
     },
     {
       "artist": "The Weeknd",
       "album": "Dawn FM",
+      "genre": "Electronic, Funk / Soul, Pop",
       "year": 2022
     },
     {
       "artist": "The Weeknd",
       "album": "Starboy",
+      "genre": "Electronic, Hip Hop, Funk / Soul, Pop",
       "year": 2016
     },
     {
       "artist": "The White Stripes",
       "album": "The White Stripes",
+      "genre": "Rock",
       "year": 1999
     },
     {
       "artist": "The White Stripes",
       "album": "White Blood Cells",
+      "genre": "Rock",
       "year": 2001
     },
     {
       "artist": "Tool (2)",
       "album": "Lateralus",
+      "genre": "Rock",
       "year": 2001
     },
     {
       "artist": "Tool (2)",
       "album": "Undertow",
+      "genre": "Rock",
       "year": 1993
     },
     {
       "artist": "Various",
       "album": "Forrest Gump (The Soundtrack)",
+      "genre": "Rock, Pop, Stage & Screen",
       "year": 1994
     },
     {
       "artist": "Various",
       "album": "French Touch Vol. 2",
+      "genre": "Electronic",
       "year": 2022
     },
     {
       "artist": "Various",
       "album": "Pulp Fiction (Music From The Motion Picture)",
+      "genre": "Rock, Funk / Soul, Non-Music, Stage & Screen",
       "year": 1994
     },
     {
       "artist": "Various",
       "album": "Reservoir Dogs (Original Motion Picture Soundtrack)",
+      "genre": "Rock, Non-Music, Stage & Screen",
       "year": 1992
     },
     {
       "artist": "Various",
       "album": "Soul City New York",
+      "genre": "Funk / Soul",
       "year": 2013
     },
     {
       "artist": "Various",
       "album": "Top Gun (Original Motion Picture Soundtrack)",
+      "genre": "Electronic, Rock, Stage & Screen",
       "year": 1986
     },
     {
       "artist": "Wu-Tang Clan",
       "album": "Enter The Wu-Tang (36 Chambers)",
+      "genre": "Hip Hop",
       "year": 1993
     },
     {
       "artist": "Yeah Yeah Yeahs",
       "album": "It's Blitz!",
+      "genre": "Electronic, Rock",
       "year": 2009
     }
   ]

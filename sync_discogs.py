@@ -116,10 +116,14 @@ def fetch_collection(
         else:
             year = release_year
 
+        genres = info.get("genres") or []
+        genre_str = ", ".join(g for g in genres if g)
+
         simplified.append(
             {
                 "artist": artist_names,
                 "album": info.get("title", ""),
+                "genre": genre_str,
                 "year": year,
             }
         )
@@ -159,10 +163,14 @@ def fetch_wantlist(
         else:
             year = release_year
 
+        genres = info.get("genres") or []
+        genre_str = ", ".join(g for g in genres if g)
+
         simplified.append(
             {
                 "artist": artist_names,
                 "album": info.get("title", ""),
+                "genre": genre_str,
                 "year": year,
             }
         )

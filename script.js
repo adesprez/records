@@ -45,7 +45,7 @@
     if (!data || data.length === 0) {
       const tr = document.createElement('tr');
       const td = document.createElement('td');
-      td.colSpan = 3;
+      td.colSpan = 4;
       td.textContent = 'No records found';
       td.className = 'loading';
       tr.appendChild(td);
@@ -64,6 +64,10 @@
       const albumTd = document.createElement('td');
       albumTd.textContent = item.album || '';
       tr.appendChild(albumTd);
+
+      const genreTd = document.createElement('td');
+      genreTd.textContent = item.genre || '';
+      tr.appendChild(genreTd);
 
       const yearTd = document.createElement('td');
       yearTd.textContent = item.year || '';
@@ -94,7 +98,12 @@
       filtered = baseData.filter((item) => {
         const artist = (item.artist || '').toLowerCase();
         const album = (item.album || '').toLowerCase();
-        return artist.includes(q) || album.includes(q);
+        const genre = (item.genre || '').toLowerCase();
+        return (
+          artist.includes(q) ||
+          album.includes(q) ||
+          genre.includes(q)
+        );
       });
     }
 
@@ -188,10 +197,19 @@
       collectionMeta = collectionJson;
       collectionData = collectionJson.items || [];
 
+      // Ensure genre field exists for all items
+      collectionData = collectionData.map((item) => ({
+        ...item,
+        genre: item.genre || '',
+      }));
+
       if (wantlistRes.ok) {
         const wantlistJson = await wantlistRes.json();
         wantlistMeta = wantlistJson;
-        wantlistData = wantlistJson.items || [];
+        wantlistData = (wantlistJson.items || []).map((item) => ({
+          ...item,
+          genre: item.genre || '',
+        }));
       } else {
         wantlistData = [];
         wantlistMeta = null;
@@ -207,7 +225,7 @@
         tbody.innerHTML = '';
         const tr = document.createElement('tr');
         const td = document.createElement('td');
-        td.colSpan = 3;
+        td.colSpan = 4;
         td.textContent = 'Failed to load data.';
         td.className = 'loading';
         tr.appendChild(td);
