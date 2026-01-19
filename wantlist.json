@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-19T04:07:16.366453+00:00",
+  "updated_at": "2026-01-19T22:30:37.907549+00:00",
   "items": [
     {
       "artist": "A Tribe Called Quest",
@@ -14,10 +14,28 @@
       "year": 2011
     },
     {
+      "artist": "Adele (3)",
+      "album": "25",
+      "genre": "Funk / Soul, Blues, Pop",
+      "year": 2015
+    },
+    {
+      "artist": "ASAP Rocky",
+      "album": "Live.Love.A$AP",
+      "genre": "Hip Hop",
+      "year": 2011
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "Hit Me Hard And Soft",
+      "genre": "Electronic, Pop",
+      "year": 2024
+    },
+    {
       "artist": "Blur",
-      "album": "Parklife",
+      "album": "13",
       "genre": "Rock",
-      "year": 1994
+      "year": 1999
     },
     {
       "artist": "Blur",
@@ -32,10 +50,46 @@
       "year": 1995
     },
     {
+      "artist": "Blur",
+      "album": "Think Tank",
+      "genre": "Rock",
+      "year": 2003
+    },
+    {
       "artist": "Claude Nougaro",
       "album": "Best Of",
       "genre": "Jazz",
       "year": 2019
+    },
+    {
+      "artist": "Coldplay",
+      "album": "A Rush Of Blood To The Head",
+      "genre": "Rock, Pop",
+      "year": 2002
+    },
+    {
+      "artist": "Deftones",
+      "album": "Around The Fur",
+      "genre": "Rock",
+      "year": 1997
+    },
+    {
+      "artist": "Deftones",
+      "album": "Diamond Eyes",
+      "genre": "Rock",
+      "year": 2010
+    },
+    {
+      "artist": "Deftones",
+      "album": "White Pony",
+      "genre": "Rock",
+      "year": 2000
+    },
+    {
+      "artist": "Eminem",
+      "album": "The Eminem Show",
+      "genre": "Hip Hop",
+      "year": 2002
     },
     {
       "artist": "Eminem",
@@ -44,10 +98,82 @@
       "year": 2013
     },
     {
+      "artist": "Fleetwood Mac",
+      "album": "Fleetwood Mac",
+      "genre": "Rock",
+      "year": 1975
+    },
+    {
+      "artist": "Foo Fighters",
+      "album": "The Colour And The Shape",
+      "genre": "Rock",
+      "year": 1997
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blond",
+      "genre": "Hip Hop, Funk / Soul",
+      "year": 2016
+    },
+    {
+      "artist": "Gorillaz",
+      "album": "Gorillaz",
+      "genre": "Electronic, Hip Hop, Rock, Latin, Funk / Soul, Pop",
+      "year": 2001
+    },
+    {
+      "artist": "Jack White (2)",
+      "album": "Lazaretto",
+      "genre": "Rock",
+      "year": 2014
+    },
+    {
       "artist": "Jalen N'Gonda",
       "album": "Come Around And Love Me",
       "genre": "Funk / Soul",
       "year": 2023
+    },
+    {
+      "artist": "Jamiroquai",
+      "album": "A Funk Odyssey",
+      "genre": "Funk / Soul, Pop",
+      "year": 2001
+    },
+    {
+      "artist": "Jamiroquai",
+      "album": "Emergency On Planet Earth",
+      "genre": "Jazz, Rock, Funk / Soul, Pop, Folk, World, & Country",
+      "year": 1993
+    },
+    {
+      "artist": "Jamiroquai",
+      "album": "Synkronized",
+      "genre": "Electronic, Jazz, Funk / Soul, Pop",
+      "year": 1999
+    },
+    {
+      "artist": "Jeff Buckley",
+      "album": "Grace",
+      "genre": "Rock",
+      "year": 1994
+    },
+    {
+      "artist": "Jurassic 5",
+      "album": "Power In Numbers",
+      "genre": "Hip Hop",
+      "year": 2002
+    },
+    {
+      "artist": "Jurassic 5",
+      "album": "Quality Control",
+      "genre": "Hip Hop",
+      "year": 2000
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "Good Kid, M.A.A.D City",
+      "genre": "Hip Hop",
+      "year": 2012
     },
     {
       "artist": "Kendrick Lamar",
@@ -56,10 +182,184 @@
       "year": 2015
     },
     {
+      "artist": "Limp Bizkit",
+      "album": "Chocolate Starfish And The Hot Dog Flavored Water",
+      "genre": "Hip Hop, Rock",
+      "year": 2000
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Meteora",
+      "genre": "Rock",
+      "year": 2003
+    },
+    {
+      "artist": "Mammoth WVH",
+      "album": "The End",
+      "genre": "Rock",
+      "year": 2025
+    },
+    {
+      "artist": "Massive Attack",
+      "album": "Blue Lines",
+      "genre": "Electronic",
+      "year": 1991
+    },
+    {
+      "artist": "Massive Attack",
+      "album": "Mezzanine",
+      "genre": "Electronic",
+      "year": 1998
+    },
+    {
+      "artist": "Metallica",
+      "album": "...And Justice For All",
+      "genre": "Rock",
+      "year": 1988
+    },
+    {
+      "artist": "Metallica",
+      "album": "Metallica",
+      "genre": "Rock",
+      "year": 1991
+    },
+    {
       "artist": "Neil Young",
       "album": "Harvest",
       "genre": "Rock",
       "year": 1972
+    },
+    {
+      "artist": "Neil Young",
+      "album": "Harvest",
+      "genre": "Rock",
+      "year": 1972
+    },
+    {
+      "artist": "Olivia Dean",
+      "album": "Messy",
+      "genre": "Funk / Soul, Pop",
+      "year": 2023
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "album": "Sour",
+      "genre": "Rock, Pop",
+      "year": 2021
+    },
+    {
+      "artist": "Phoenix",
+      "album": "Alphabetical",
+      "genre": "Electronic, Rock, Pop",
+      "year": 2004
+    },
+    {
+      "artist": "Phoenix",
+      "album": "It's Never Been Like That",
+      "genre": "Rock",
+      "year": 2006
+    },
+    {
+      "artist": "Pink Floyd",
+      "album": "Animals",
+      "genre": "Rock",
+      "year": 1977
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By The Way",
+      "genre": "Rock",
+      "year": 2002
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Mother's Milk",
+      "genre": "Rock",
+      "year": 1989
+    },
+    {
+      "artist": "Rosalía (3)",
+      "album": "Lux",
+      "genre": "Electronic, Latin, Pop, Classical, Folk, World, & Country",
+      "year": 2025
+    },
+    {
+      "artist": "Röyksopp",
+      "album": "The Inevitable End",
+      "genre": "Electronic, Pop",
+      "year": 2014
+    },
+    {
+      "artist": "Rüfüs Du Sol",
+      "album": "Live From Joshua Tree",
+      "genre": "Electronic",
+      "year": 2023
+    },
+    {
+      "artist": "Sade",
+      "album": "Diamond Life",
+      "genre": "Jazz, Funk / Soul",
+      "year": 1984
+    },
+    {
+      "artist": "Snoop Dogg",
+      "album": "Doggystyle",
+      "genre": "Hip Hop",
+      "year": 1993
+    },
+    {
+      "artist": "Talking Heads",
+      "album": "Little Creatures",
+      "genre": "Rock",
+      "year": 1985
+    },
+    {
+      "artist": "The Beatles",
+      "album": "Abbey Road",
+      "genre": "Rock",
+      "year": 1969
+    },
+    {
+      "artist": "The Doors",
+      "album": "The Doors",
+      "genre": "Rock",
+      "year": 1967
+    },
+    {
+      "artist": "The Rolling Stones",
+      "album": "Sticky Fingers",
+      "genre": "Rock, Blues",
+      "year": 1971
+    },
+    {
+      "artist": "The Roots",
+      "album": "Things Fall Apart",
+      "genre": "Hip Hop",
+      "year": 1999
+    },
+    {
+      "artist": "The Smiths",
+      "album": "The Queen Is Dead",
+      "genre": "Rock, Pop",
+      "year": 1986
+    },
+    {
+      "artist": "The White Stripes",
+      "album": "De Stijl",
+      "genre": "Rock",
+      "year": 2000
+    },
+    {
+      "artist": "The White Stripes",
+      "album": "Elephant",
+      "genre": "Rock",
+      "year": 2003
+    },
+    {
+      "artist": "Tool (2)",
+      "album": "10,000 Days",
+      "genre": "Rock",
+      "year": 2006
     },
     {
       "artist": "Tool (2)",
@@ -72,6 +372,24 @@
       "album": "Tracy Chapman",
       "genre": "Rock",
       "year": 1988
+    },
+    {
+      "artist": "Weezer",
+      "album": "Pinkerton",
+      "genre": "Rock",
+      "year": 1996
+    },
+    {
+      "artist": "Weezer",
+      "album": "Raditude",
+      "genre": "Rock, Pop",
+      "year": 2009
+    },
+    {
+      "artist": "Weezer",
+      "album": "Weezer",
+      "genre": "Rock",
+      "year": 1994
     }
   ]
 }
