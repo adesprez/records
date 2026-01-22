@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-22T04:04:22.387182+00:00",
+  "updated_at": "2026-01-22T15:55:31.830029+00:00",
   "items": [
     {
       "artist": "A Tribe Called Quest",
@@ -18,6 +18,12 @@
       "album": "25",
       "genre": "Funk / Soul, Blues, Pop",
       "year": 2015
+    },
+    {
+      "artist": "Arcade Fire",
+      "album": "Funeral",
+      "genre": "Rock",
+      "year": 2004
     },
     {
       "artist": "ASAP Rocky",
@@ -122,6 +128,12 @@
       "year": 2001
     },
     {
+      "artist": "Interpol",
+      "album": "Turn On The Bright Lights",
+      "genre": "Rock",
+      "year": 2002
+    },
+    {
       "artist": "Jack White (2)",
       "album": "Lazaretto",
       "genre": "Rock",
@@ -158,6 +170,12 @@
       "year": 1994
     },
     {
+      "artist": "Joni Mitchell",
+      "album": "Blue",
+      "genre": "Rock",
+      "year": 1971
+    },
+    {
       "artist": "Jurassic 5",
       "album": "Power In Numbers",
       "genre": "Hip Hop",
@@ -170,6 +188,12 @@
       "year": 2000
     },
     {
+      "artist": "Kate Bush",
+      "album": "Hounds Of Love",
+      "genre": "Electronic, Rock, Pop, Folk, World, & Country",
+      "year": 1985
+    },
+    {
       "artist": "Kendrick Lamar",
       "album": "Good Kid, M.A.A.D City",
       "genre": "Hip Hop",
@@ -180,6 +204,12 @@
       "album": "To Pimp A Butterfly",
       "genre": "Hip Hop, Jazz, Funk / Soul",
       "year": 2015
+    },
+    {
+      "artist": "King Crimson",
+      "album": "In The Court Of The Crimson King (An Observation By King Crimson)",
+      "genre": "Rock",
+      "year": 1969
     },
     {
       "artist": "Limp Bizkit",
@@ -236,6 +266,12 @@
       "year": 1972
     },
     {
+      "artist": "Neil Young, Crazy Horse",
+      "album": "Zuma",
+      "genre": "Rock",
+      "year": 1975
+    },
+    {
       "artist": "Olivia Dean",
       "album": "Messy",
       "genre": "Funk / Soul, Pop",
@@ -264,6 +300,12 @@
       "album": "Animals",
       "genre": "Rock",
       "year": 1977
+    },
+    {
+      "artist": "Radiohead",
+      "album": "Amnesiac",
+      "genre": "Electronic, Rock",
+      "year": 2001
     },
     {
       "artist": "Red Hot Chili Peppers",
@@ -302,6 +344,18 @@
       "year": 1984
     },
     {
+      "artist": "Sigur Rós",
+      "album": "Ágætis Byrjun",
+      "genre": "Electronic, Rock",
+      "year": 1999
+    },
+    {
+      "artist": "Simon & Garfunkel",
+      "album": "Bridge Over Troubled Water",
+      "genre": "Rock, Folk, World, & Country",
+      "year": 1970
+    },
+    {
       "artist": "Snoop Dogg",
       "album": "Doggystyle",
       "genre": "Hip Hop",
@@ -320,10 +374,34 @@
       "year": 1969
     },
     {
+      "artist": "The Byrds",
+      "album": "Mr. Tambourine Man",
+      "genre": "Rock",
+      "year": 1965
+    },
+    {
+      "artist": "The Byrds",
+      "album": "The Notorious Byrds Brothers ... Space Odyssey",
+      "genre": "Rock, Folk, World, & Country",
+      "year": 1968
+    },
+    {
       "artist": "The Doors",
       "album": "The Doors",
       "genre": "Rock",
       "year": 1967
+    },
+    {
+      "artist": "The Flaming Lips",
+      "album": "Yoshimi Battles The Pink Robots",
+      "genre": "Electronic, Rock",
+      "year": 2002
+    },
+    {
+      "artist": "The National",
+      "album": "High Violet",
+      "genre": "Rock",
+      "year": 2010
     },
     {
       "artist": "The Rolling Stones",
@@ -378,6 +456,12 @@
       "album": "Tracy Chapman",
       "genre": "Rock",
       "year": 1988
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Vampire Weekend",
+      "genre": "Rock",
+      "year": 2008
     },
     {
       "artist": "Weezer",
