@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-21T04:01:48.713564+00:00",
+  "updated_at": "2026-01-22T04:04:22.387182+00:00",
   "items": [
     {
       "artist": "A Tribe Called Quest",
@@ -366,6 +366,12 @@
       "album": "Ænima",
       "genre": "Rock",
       "year": 1996
+    },
+    {
+      "artist": "Tracy Chapman",
+      "album": "Tracy Chapman",
+      "genre": "Rock",
+      "year": 1988
     },
     {
       "artist": "Tracy Chapman",
