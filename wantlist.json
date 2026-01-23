@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-23T04:00:44.558760+00:00",
+  "updated_at": "2026-01-23T12:49:59.415216+00:00",
   "items": [
     {
       "artist": "A Tribe Called Quest",
@@ -20,10 +20,28 @@
       "year": 2015
     },
     {
+      "artist": "Alt-J",
+      "album": "An Awesome Wave",
+      "genre": "Rock",
+      "year": 2012
+    },
+    {
+      "artist": "Aphex Twin",
+      "album": "Selected Ambient Works 85-92",
+      "genre": "Electronic",
+      "year": 1992
+    },
+    {
       "artist": "Arcade Fire",
       "album": "Funeral",
       "genre": "Rock",
       "year": 2004
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "album": "Favourite Worst Nightmare",
+      "genre": "Rock",
+      "year": 2007
     },
     {
       "artist": "ASAP Rocky",
@@ -32,10 +50,34 @@
       "year": 2011
     },
     {
+      "artist": "Beck",
+      "album": "Odelay",
+      "genre": "Electronic, Hip Hop, Rock, Funk / Soul, Blues, Pop, Folk, World, & Country",
+      "year": 1996
+    },
+    {
+      "artist": "Beck",
+      "album": "Sea Change",
+      "genre": "Rock",
+      "year": 2002
+    },
+    {
       "artist": "Billie Eilish",
       "album": "Hit Me Hard And Soft",
       "genre": "Electronic, Pop",
       "year": 2024
+    },
+    {
+      "artist": "Blink-182",
+      "album": "Enema Of The State",
+      "genre": "Rock",
+      "year": 1999
+    },
+    {
+      "artist": "Bloc Party",
+      "album": "Silent Alarm",
+      "genre": "Electronic, Rock",
+      "year": 2005
     },
     {
       "artist": "Blur",
@@ -62,6 +104,12 @@
       "year": 2003
     },
     {
+      "artist": "Cat Stevens",
+      "album": "Tea For The Tillerman",
+      "genre": "Rock, Pop",
+      "year": 1970
+    },
+    {
       "artist": "Claude Nougaro",
       "album": "Best Of",
       "genre": "Jazz",
@@ -72,6 +120,24 @@
       "album": "A Rush Of Blood To The Head",
       "genre": "Rock, Pop",
       "year": 2002
+    },
+    {
+      "artist": "Cream (2)",
+      "album": "Wheels Of Fire",
+      "genre": "Rock",
+      "year": 1968
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "album": "Cosmo's Factory",
+      "genre": "Rock",
+      "year": 1970
+    },
+    {
+      "artist": "Curtis Mayfield",
+      "album": "Super Fly",
+      "genre": "Funk / Soul, Stage & Screen",
+      "year": 1972
     },
     {
       "artist": "Deftones",
@@ -122,6 +188,18 @@
       "year": 2016
     },
     {
+      "artist": "Franz Ferdinand",
+      "album": "Franz Ferdinand",
+      "genre": "Rock",
+      "year": 2004
+    },
+    {
+      "artist": "Funkadelic",
+      "album": "Maggot Brain",
+      "genre": "Rock, Funk / Soul",
+      "year": 1971
+    },
+    {
       "artist": "Gorillaz",
       "album": "Gorillaz",
       "genre": "Electronic, Hip Hop, Rock, Latin, Funk / Soul, Pop",
@@ -132,6 +210,12 @@
       "album": "American Idiot",
       "genre": "Rock",
       "year": 2004
+    },
+    {
+      "artist": "Grizzly Bear",
+      "album": "Veckatimest",
+      "genre": "Rock, Folk, World, & Country",
+      "year": 2009
     },
     {
       "artist": "Interpol",
@@ -218,6 +302,24 @@
       "year": 1969
     },
     {
+      "artist": "Korn",
+      "album": "Follow The Leader",
+      "genre": "Rock",
+      "year": 1998
+    },
+    {
+      "artist": "Korn",
+      "album": "See You On The Other Side",
+      "genre": "Rock",
+      "year": 2005
+    },
+    {
+      "artist": "LCD Soundsystem",
+      "album": "Sound Of Silver",
+      "genre": "Electronic, Rock",
+      "year": 2007
+    },
+    {
       "artist": "Limp Bizkit",
       "album": "Chocolate Starfish And The Hot Dog Flavored Water",
       "genre": "Hip Hop, Rock",
@@ -228,6 +330,18 @@
       "album": "Meteora",
       "genre": "Rock",
       "year": 2003
+    },
+    {
+      "artist": "Lorde",
+      "album": "Melodrama",
+      "genre": "Pop",
+      "year": 2017
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry Up, We're Dreaming.",
+      "genre": "Electronic, Rock",
+      "year": 2011
     },
     {
       "artist": "Mammoth WVH",
@@ -258,6 +372,18 @@
       "album": "Metallica",
       "genre": "Rock",
       "year": 1991
+    },
+    {
+      "artist": "MGMT",
+      "album": "Oracular Spectacular",
+      "genre": "Electronic, Rock, Pop",
+      "year": 2007
+    },
+    {
+      "artist": "Moby",
+      "album": "Play",
+      "genre": "Electronic",
+      "year": 1999
     },
     {
       "artist": "Muse",
@@ -296,6 +422,12 @@
       "year": 1975
     },
     {
+      "artist": "Nirvana",
+      "album": "In Utero",
+      "genre": "Rock",
+      "year": 1993
+    },
+    {
       "artist": "Olivia Dean",
       "album": "Messy",
       "genre": "Funk / Soul, Pop",
@@ -306,6 +438,12 @@
       "album": "Sour",
       "genre": "Rock, Pop",
       "year": 2021
+    },
+    {
+      "artist": "Pearl Jam",
+      "album": "Ten",
+      "genre": "Rock",
+      "year": 1991
     },
     {
       "artist": "Phoenix",
@@ -381,6 +519,12 @@
     },
     {
       "artist": "Simon & Garfunkel",
+      "album": "Bookends",
+      "genre": "Rock",
+      "year": 1968
+    },
+    {
+      "artist": "Simon & Garfunkel",
       "album": "Bridge Over Troubled Water",
       "genre": "Rock, Folk, World, & Country",
       "year": 1970
@@ -398,10 +542,22 @@
       "year": 1994
     },
     {
+      "artist": "Sum 41",
+      "album": "All Killer No Filler",
+      "genre": "Rock",
+      "year": 2001
+    },
+    {
       "artist": "Talking Heads",
       "album": "Little Creatures",
       "genre": "Rock",
       "year": 1985
+    },
+    {
+      "artist": "Tame Impala",
+      "album": "Innerspeaker",
+      "genre": "Rock",
+      "year": 2010
     },
     {
       "artist": "The Beatles",
@@ -446,6 +602,18 @@
       "year": 2010
     },
     {
+      "artist": "The National",
+      "album": "Trouble Will Find Me",
+      "genre": "Rock",
+      "year": 2013
+    },
+    {
+      "artist": "The Prodigy",
+      "album": "The Fat Of The Land",
+      "genre": "Electronic",
+      "year": 1997
+    },
+    {
       "artist": "The Rolling Stones",
       "album": "Sticky Fingers",
       "genre": "Rock, Blues",
@@ -459,9 +627,21 @@
     },
     {
       "artist": "The Smiths",
+      "album": "Meat Is Murder",
+      "genre": "Rock",
+      "year": 1985
+    },
+    {
+      "artist": "The Smiths",
       "album": "The Queen Is Dead",
       "genre": "Rock, Pop",
       "year": 1986
+    },
+    {
+      "artist": "The Strokes",
+      "album": "The New Abnormal",
+      "genre": "Electronic, Rock",
+      "year": 2020
     },
     {
       "artist": "The White Stripes",
@@ -528,6 +708,12 @@
       "album": "Weezer",
       "genre": "Rock",
       "year": 1994
+    },
+    {
+      "artist": "Wolf Alice",
+      "album": "Visions Of A Life",
+      "genre": "Rock",
+      "year": 2017
     }
   ]
 }
