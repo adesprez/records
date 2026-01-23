@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-01-23T12:49:59.415216+00:00",
+  "updated_at": "2026-01-23T13:44:46.028121+00:00",
   "items": [
+    {
+      "artist": "A Perfect Circle",
+      "album": "Eat The Elephant",
+      "genre": "Rock",
+      "year": 2018
+    },
+    {
+      "artist": "A Perfect Circle",
+      "album": "Thirteenth Step",
+      "genre": "Rock",
+      "year": 2003
+    },
     {
       "artist": "A Tribe Called Quest",
       "album": "The Low End Theory",
@@ -156,6 +168,24 @@
       "album": "White Pony",
       "genre": "Rock",
       "year": 2000
+    },
+    {
+      "artist": "Dream Theater",
+      "album": "Octavarium",
+      "genre": "Rock",
+      "year": 2005
+    },
+    {
+      "artist": "Eagles Of Death Metal",
+      "album": "Death By Sexy...",
+      "genre": "Rock",
+      "year": 2006
+    },
+    {
+      "artist": "Eagles Of Death Metal",
+      "album": "Heart On",
+      "genre": "Rock",
+      "year": 2008
     },
     {
       "artist": "Eminem",
@@ -314,6 +344,18 @@
       "year": 2005
     },
     {
+      "artist": "Kyuss",
+      "album": "...And The Circus Leaves Town",
+      "genre": "Rock",
+      "year": 1995
+    },
+    {
+      "artist": "Kyuss",
+      "album": "Welcome To Sky Valley",
+      "genre": "Rock",
+      "year": 1994
+    },
+    {
       "artist": "LCD Soundsystem",
       "album": "Sound Of Silver",
       "genre": "Electronic, Rock",
@@ -360,6 +402,12 @@
       "album": "Mezzanine",
       "genre": "Electronic",
       "year": 1998
+    },
+    {
+      "artist": "Mazzy Star",
+      "album": "So Tonight That I Might See",
+      "genre": "Rock, Pop",
+      "year": 1993
     },
     {
       "artist": "Metallica",
@@ -462,6 +510,12 @@
       "album": "Animals",
       "genre": "Rock",
       "year": 1977
+    },
+    {
+      "artist": "PJ Harvey",
+      "album": "Stories From The City, Stories From The Sea",
+      "genre": "Rock",
+      "year": 2000
     },
     {
       "artist": "Radiohead",
@@ -578,6 +632,12 @@
       "year": 1968
     },
     {
+      "artist": "The Desert Sessions",
+      "album": "9 I See You Hearing Me & 10 I Heart Disco",
+      "genre": "Rock",
+      "year": 2003
+    },
+    {
       "artist": "The Doors",
       "album": "The Doors",
       "genre": "Rock",
@@ -660,6 +720,12 @@
       "album": "Tommy",
       "genre": "Rock",
       "year": 1969
+    },
+    {
+      "artist": "Them Crooked Vultures",
+      "album": "Them Crooked Vultures",
+      "genre": "Rock",
+      "year": 2009
     },
     {
       "artist": "Tool (2)",
