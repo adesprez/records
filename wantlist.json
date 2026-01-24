@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-23T13:44:46.028121+00:00",
+  "updated_at": "2026-01-24T03:55:04.415818+00:00",
   "items": [
     {
       "artist": "A Perfect Circle",
@@ -30,6 +30,18 @@
       "album": "25",
       "genre": "Funk / Soul, Blues, Pop",
       "year": 2015
+    },
+    {
+      "artist": "Albert Hammond Jr.",
+      "album": "Momentary Masters",
+      "genre": "Rock",
+      "year": 2015
+    },
+    {
+      "artist": "Albert Hammond Jr.",
+      "album": "Yours To Keep",
+      "genre": "Rock",
+      "year": 2016
     },
     {
       "artist": "Alt-J",
@@ -122,6 +134,12 @@
       "year": 1970
     },
     {
+      "artist": "Chris Joss",
+      "album": "You've Been Spiked",
+      "genre": "Electronic, Funk / Soul, Pop",
+      "year": 2004
+    },
+    {
       "artist": "Claude Nougaro",
       "album": "Best Of",
       "genre": "Jazz",
@@ -150,6 +168,18 @@
       "album": "Super Fly",
       "genre": "Funk / Soul, Stage & Screen",
       "year": 1972
+    },
+    {
+      "artist": "Daria Zawiałow",
+      "album": "Dziewczyna Pop",
+      "genre": "Pop",
+      "year": 2023
+    },
+    {
+      "artist": "Darius (17)",
+      "album": "Velour",
+      "genre": "Electronic, Funk / Soul",
+      "year": 2012
     },
     {
       "artist": "Deftones",
@@ -212,6 +242,12 @@
       "year": 1997
     },
     {
+      "artist": "Franc Moody",
+      "album": "Chewing The Fat",
+      "genre": "Electronic, Funk / Soul",
+      "year": 2025
+    },
+    {
       "artist": "Frank Ocean",
       "album": "Blond",
       "genre": "Hip Hop, Funk / Soul",
@@ -246,6 +282,12 @@
       "album": "Veckatimest",
       "genre": "Rock, Folk, World, & Country",
       "year": 2009
+    },
+    {
+      "artist": "Hvob",
+      "album": "Trialog",
+      "genre": "Electronic",
+      "year": 2015
     },
     {
       "artist": "Interpol",
@@ -434,6 +476,12 @@
       "year": 1999
     },
     {
+      "artist": "Moderat",
+      "album": "III",
+      "genre": "Electronic",
+      "year": 2016
+    },
+    {
       "artist": "Muse",
       "album": "Absolution",
       "genre": "Electronic, Rock, Pop, Classical",
@@ -452,10 +500,10 @@
       "year": 1999
     },
     {
-      "artist": "Neil Young",
-      "album": "Harvest",
-      "genre": "Rock",
-      "year": 1972
+      "artist": "Neil Frances (2)",
+      "album": "It's All a Bit Fuzzy",
+      "genre": "Electronic, Rock, Pop",
+      "year": 2024
     },
     {
       "artist": "Neil Young",
@@ -468,6 +516,12 @@
       "album": "Zuma",
       "genre": "Rock",
       "year": 1975
+    },
+    {
+      "artist": "Nine Inch Nails",
+      "album": "With Teeth",
+      "genre": "Electronic, Rock",
+      "year": 2005
     },
     {
       "artist": "Nirvana",
@@ -530,6 +584,12 @@
       "year": 2003
     },
     {
+      "artist": "Raye (3)",
+      "album": "My 21st Century Blues ",
+      "genre": "Electronic, Hip Hop, Pop",
+      "year": 2023
+    },
+    {
       "artist": "Red Hot Chili Peppers",
       "album": "By The Way",
       "genre": "Rock",
@@ -564,6 +624,12 @@
       "album": "Diamond Life",
       "genre": "Jazz, Funk / Soul",
       "year": 1984
+    },
+    {
+      "artist": "Selah Sue",
+      "album": "Selah Sue",
+      "genre": "Reggae, Pop",
+      "year": 2011
     },
     {
       "artist": "Sigur Rós",
@@ -728,6 +794,12 @@
       "year": 2009
     },
     {
+      "artist": "Thom Yorke",
+      "album": "The Eraser",
+      "genre": "Electronic, Rock",
+      "year": 2006
+    },
+    {
       "artist": "Tool (2)",
       "album": "10,000 Days",
       "genre": "Rock",
@@ -750,6 +822,12 @@
       "album": "Tracy Chapman",
       "genre": "Rock",
       "year": 1988
+    },
+    {
+      "artist": "Valerie June",
+      "album": "Pushin' Against A Stone",
+      "genre": "Funk / Soul",
+      "year": 2013
     },
     {
       "artist": "Vampire Weekend",
