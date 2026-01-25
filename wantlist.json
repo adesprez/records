@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-24T03:55:04.415818+00:00",
+  "updated_at": "2026-01-25T04:09:18.928758+00:00",
   "items": [
     {
       "artist": "A Perfect Circle",
@@ -126,6 +126,18 @@
       "album": "Think Tank",
       "genre": "Rock",
       "year": 2003
+    },
+    {
+      "artist": "Bonobo",
+      "album": "Black Sands",
+      "genre": "Electronic",
+      "year": 2010
+    },
+    {
+      "artist": "Bonobo",
+      "album": "Days To Come",
+      "genre": "Electronic, Jazz",
+      "year": 2006
     },
     {
       "artist": "Cat Stevens",
@@ -264,6 +276,12 @@
       "album": "Maggot Brain",
       "genre": "Rock, Funk / Soul",
       "year": 1971
+    },
+    {
+      "artist": "Goldfrapp",
+      "album": "Supernature",
+      "genre": "Electronic, Pop",
+      "year": 2005
     },
     {
       "artist": "Gorillaz",
