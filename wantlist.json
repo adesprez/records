@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-27T04:03:02.537981+00:00",
+  "updated_at": "2026-01-28T04:01:52.412343+00:00",
   "items": [
     {
       "artist": "A Perfect Circle",
@@ -146,6 +146,12 @@
       "year": 1970
     },
     {
+      "artist": "Charli XCX",
+      "album": "Brat",
+      "genre": "Electronic, Pop",
+      "year": 2024
+    },
+    {
       "artist": "Chris Joss",
       "album": "You've Been Spiked",
       "genre": "Electronic, Funk / Soul, Pop",
@@ -192,6 +198,12 @@
       "album": "Velour",
       "genre": "Electronic, Funk / Soul",
       "year": 2012
+    },
+    {
+      "artist": "Death Cab For Cutie",
+      "album": "Plans",
+      "genre": "Rock",
+      "year": 2005
     },
     {
       "artist": "Deftones",
@@ -276,6 +288,12 @@
       "album": "Maggot Brain",
       "genre": "Rock, Funk / Soul",
       "year": 1971
+    },
+    {
+      "artist": "Garbage",
+      "album": "Garbage",
+      "genre": "Rock",
+      "year": 1995
     },
     {
       "artist": "Goldfrapp",
@@ -584,10 +602,34 @@
       "year": 1977
     },
     {
+      "artist": "Pixies",
+      "album": "Death To The Pixies",
+      "genre": "Rock",
+      "year": 1997
+    },
+    {
       "artist": "PJ Harvey",
       "album": "Stories From The City, Stories From The Sea",
       "genre": "Rock",
       "year": 2000
+    },
+    {
+      "artist": "Placebo",
+      "album": "Meds",
+      "genre": "Rock",
+      "year": 2006
+    },
+    {
+      "artist": "Placebo",
+      "album": "Sleeping With Ghosts",
+      "genre": "Rock",
+      "year": 2003
+    },
+    {
+      "artist": "Placebo",
+      "album": "Without You I'm Nothing",
+      "genre": "Rock",
+      "year": 1998
     },
     {
       "artist": "Radiohead",
@@ -738,6 +780,12 @@
       "album": "Hot Fuss",
       "genre": "Rock",
       "year": 2004
+    },
+    {
+      "artist": "The Kinks",
+      "album": "Kinks",
+      "genre": "Rock",
+      "year": 1964
     },
     {
       "artist": "The National",
