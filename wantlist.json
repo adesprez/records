@@ -1,929 +1,1253 @@
 {
-  "updated_at": "2026-01-28T04:01:52.412343+00:00",
+  "updated_at": "2026-01-28T20:43:09.327225+00:00",
   "items": [
     {
+      "id": 11858011,
       "artist": "A Perfect Circle",
       "album": "Eat The Elephant",
       "genre": "Rock",
-      "year": 2018
+      "year": 2018,
+      "purchasing": false
     },
     {
+      "id": 3585734,
       "artist": "A Perfect Circle",
       "album": "Thirteenth Step",
       "genre": "Rock",
-      "year": 2003
+      "year": 2003,
+      "purchasing": false
     },
     {
+      "id": 16447878,
       "artist": "A Tribe Called Quest",
       "album": "The Low End Theory",
       "genre": "Hip Hop",
-      "year": 1991
+      "year": 1991,
+      "purchasing": false
     },
     {
+      "id": 8729281,
       "artist": "Adele (3)",
       "album": "21",
       "genre": "Funk / Soul, Blues, Pop",
-      "year": 2011
+      "year": 2011,
+      "purchasing": false
     },
     {
+      "id": 7748058,
       "artist": "Adele (3)",
       "album": "25",
       "genre": "Funk / Soul, Blues, Pop",
-      "year": 2015
+      "year": 2015,
+      "purchasing": false
     },
     {
+      "id": 7300160,
       "artist": "Albert Hammond Jr.",
       "album": "Momentary Masters",
       "genre": "Rock",
-      "year": 2015
+      "year": 2015,
+      "purchasing": false
     },
     {
+      "id": 8399094,
       "artist": "Albert Hammond Jr.",
       "album": "Yours To Keep",
       "genre": "Rock",
-      "year": 2016
+      "year": 2016,
+      "purchasing": false
     },
     {
+      "id": 23776664,
       "artist": "Alt-J",
       "album": "An Awesome Wave",
       "genre": "Rock",
-      "year": 2012
+      "year": 2012,
+      "purchasing": false
     },
     {
+      "id": 1138729,
       "artist": "Aphex Twin",
       "album": "Selected Ambient Works 85-92",
       "genre": "Electronic",
-      "year": 1992
+      "year": 1992,
+      "purchasing": false
     },
     {
+      "id": 11212033,
       "artist": "Arcade Fire",
       "album": "Funeral",
       "genre": "Rock",
-      "year": 2004
+      "year": 2004,
+      "purchasing": false
     },
     {
+      "id": 6985823,
       "artist": "Arctic Monkeys",
       "album": "Favourite Worst Nightmare",
       "genre": "Rock",
-      "year": 2007
+      "year": 2007,
+      "purchasing": false
     },
     {
+      "id": 6044856,
       "artist": "ASAP Rocky",
       "album": "Live.Love.A$AP",
       "genre": "Hip Hop",
-      "year": 2011
+      "year": 2011,
+      "purchasing": false
     },
     {
+      "id": 8966486,
       "artist": "Beck",
       "album": "Odelay",
       "genre": "Electronic, Hip Hop, Rock, Funk / Soul, Blues, Pop, Folk, World, & Country",
-      "year": 1996
+      "year": 1996,
+      "purchasing": false
     },
     {
+      "id": 9429675,
       "artist": "Beck",
       "album": "Sea Change",
       "genre": "Rock",
-      "year": 2002
+      "year": 2002,
+      "purchasing": false
     },
     {
+      "id": 30696067,
       "artist": "Billie Eilish",
       "album": "Hit Me Hard And Soft",
       "genre": "Electronic, Pop",
-      "year": 2024
+      "year": 2024,
+      "purchasing": false
     },
     {
+      "id": 9160941,
       "artist": "Blink-182",
       "album": "Enema Of The State",
       "genre": "Rock",
-      "year": 1999
+      "year": 1999,
+      "purchasing": false
     },
     {
+      "id": 35436508,
       "artist": "Bloc Party",
       "album": "Silent Alarm",
       "genre": "Electronic, Rock",
-      "year": 2005
+      "year": 2005,
+      "purchasing": false
     },
     {
+      "id": 25823950,
       "artist": "Blur",
       "album": "13",
       "genre": "Rock",
-      "year": 1999
+      "year": 1999,
+      "purchasing": false
     },
     {
+      "id": 16849218,
       "artist": "Blur",
       "album": "Parklife",
       "genre": "Rock",
-      "year": 1994
+      "year": 1994,
+      "purchasing": false
     },
     {
+      "id": 3786596,
       "artist": "Blur",
       "album": "The Great Escape",
       "genre": "Rock",
-      "year": 1995
+      "year": 1995,
+      "purchasing": false
     },
     {
+      "id": 3781602,
       "artist": "Blur",
       "album": "Think Tank",
       "genre": "Rock",
-      "year": 2003
+      "year": 2003,
+      "purchasing": false
     },
     {
+      "id": 19379470,
       "artist": "Bonobo",
       "album": "Black Sands",
       "genre": "Electronic",
-      "year": 2010
+      "year": 2010,
+      "purchasing": false
     },
     {
+      "id": 3141295,
       "artist": "Bonobo",
       "album": "Days To Come",
       "genre": "Electronic, Jazz",
-      "year": 2006
+      "year": 2006,
+      "purchasing": false
     },
     {
+      "id": 1475729,
       "artist": "Cat Stevens",
       "album": "Tea For The Tillerman",
       "genre": "Rock, Pop",
-      "year": 1970
+      "year": 1970,
+      "purchasing": false
     },
     {
+      "id": 30984958,
       "artist": "Charli XCX",
       "album": "Brat",
       "genre": "Electronic, Pop",
-      "year": 2024
+      "year": 2024,
+      "purchasing": false
     },
     {
+      "id": 959188,
       "artist": "Chris Joss",
       "album": "You've Been Spiked",
       "genre": "Electronic, Funk / Soul, Pop",
-      "year": 2004
+      "year": 2004,
+      "purchasing": false
     },
     {
+      "id": 14572495,
       "artist": "Claude Nougaro",
       "album": "Best Of",
       "genre": "Jazz",
-      "year": 2019
+      "year": 2019,
+      "purchasing": false
     },
     {
+      "id": 34818848,
       "artist": "Coldplay",
       "album": "A Rush Of Blood To The Head",
       "genre": "Rock, Pop",
-      "year": 2002
+      "year": 2002,
+      "purchasing": false
     },
     {
+      "id": 1564429,
       "artist": "Cream (2)",
       "album": "Wheels Of Fire",
       "genre": "Rock",
-      "year": 1968
+      "year": 1968,
+      "purchasing": false
     },
     {
+      "id": 1057315,
       "artist": "Creedence Clearwater Revival",
       "album": "Cosmo's Factory",
       "genre": "Rock",
-      "year": 1970
+      "year": 1970,
+      "purchasing": false
     },
     {
+      "id": 1049851,
       "artist": "Curtis Mayfield",
       "album": "Super Fly",
       "genre": "Funk / Soul, Stage & Screen",
-      "year": 1972
+      "year": 1972,
+      "purchasing": false
     },
     {
+      "id": 28650445,
       "artist": "Daria Zawiałow",
       "album": "Dziewczyna Pop",
       "genre": "Pop",
-      "year": 2023
+      "year": 2023,
+      "purchasing": false
     },
     {
+      "id": 23052539,
       "artist": "Darius (17)",
       "album": "Velour",
       "genre": "Electronic, Funk / Soul",
-      "year": 2012
+      "year": 2012,
+      "purchasing": false
     },
     {
+      "id": 8032695,
       "artist": "Death Cab For Cutie",
       "album": "Plans",
       "genre": "Rock",
-      "year": 2005
+      "year": 2005,
+      "purchasing": false
     },
     {
+      "id": 25412104,
       "artist": "Deftones",
       "album": "Around The Fur",
       "genre": "Rock",
-      "year": 1997
+      "year": 1997,
+      "purchasing": false
     },
     {
+      "id": 34675510,
       "artist": "Deftones",
       "album": "Diamond Eyes",
       "genre": "Rock",
-      "year": 2010
+      "year": 2010,
+      "purchasing": false
     },
     {
+      "id": 3651765,
       "artist": "Deftones",
       "album": "White Pony",
       "genre": "Rock",
-      "year": 2000
+      "year": 2000,
+      "purchasing": false
     },
     {
+      "id": 7865092,
       "artist": "Dream Theater",
       "album": "Octavarium",
       "genre": "Rock",
-      "year": 2005
+      "year": 2005,
+      "purchasing": false
     },
     {
+      "id": 13247070,
       "artist": "Eagles Of Death Metal",
       "album": "Death By Sexy...",
       "genre": "Rock",
-      "year": 2006
+      "year": 2006,
+      "purchasing": false
     },
     {
+      "id": 1825540,
       "artist": "Eagles Of Death Metal",
       "album": "Heart On",
       "genre": "Rock",
-      "year": 2008
+      "year": 2008,
+      "purchasing": false
     },
     {
+      "id": 5191929,
       "artist": "Eminem",
       "album": "The Eminem Show",
       "genre": "Hip Hop",
-      "year": 2002
+      "year": 2002,
+      "purchasing": false
     },
     {
+      "id": 5199109,
       "artist": "Eminem",
       "album": "The Marshall Mathers LP 2",
       "genre": "Hip Hop",
-      "year": 2013
+      "year": 2013,
+      "purchasing": false
     },
     {
+      "id": 1616160,
       "artist": "Fleetwood Mac",
       "album": "Fleetwood Mac",
       "genre": "Rock",
-      "year": 1975
+      "year": 1975,
+      "purchasing": false
     },
     {
+      "id": 29490082,
       "artist": "Foo Fighters",
       "album": "The Colour And The Shape",
       "genre": "Rock",
-      "year": 1997
+      "year": 1997,
+      "purchasing": false
     },
     {
+      "id": 33537612,
       "artist": "Franc Moody",
       "album": "Chewing The Fat",
       "genre": "Electronic, Funk / Soul",
-      "year": 2025
+      "year": 2025,
+      "purchasing": false
     },
     {
+      "id": 21799750,
       "artist": "Frank Ocean",
       "album": "Blond",
       "genre": "Hip Hop, Funk / Soul",
-      "year": 2016
+      "year": 2016,
+      "purchasing": false
     },
     {
+      "id": 2506916,
       "artist": "Franz Ferdinand",
       "album": "Franz Ferdinand",
       "genre": "Rock",
-      "year": 2004
+      "year": 2004,
+      "purchasing": false
     },
     {
+      "id": 6406827,
       "artist": "Funkadelic",
       "album": "Maggot Brain",
       "genre": "Rock, Funk / Soul",
-      "year": 1971
+      "year": 1971,
+      "purchasing": false
     },
     {
+      "id": 19925866,
       "artist": "Garbage",
       "album": "Garbage",
       "genre": "Rock",
-      "year": 1995
+      "year": 1995,
+      "purchasing": false
     },
     {
+      "id": 15380160,
       "artist": "Goldfrapp",
       "album": "Supernature",
       "genre": "Electronic, Pop",
-      "year": 2005
+      "year": 2005,
+      "purchasing": false
     },
     {
+      "id": 20414716,
       "artist": "Gorillaz",
       "album": "Gorillaz",
       "genre": "Electronic, Hip Hop, Rock, Latin, Funk / Soul, Pop",
-      "year": 2001
+      "year": 2001,
+      "purchasing": false
     },
     {
+      "id": 1203470,
       "artist": "Green Day",
       "album": "American Idiot",
       "genre": "Rock",
-      "year": 2004
+      "year": 2004,
+      "purchasing": false
     },
     {
+      "id": 3852834,
       "artist": "Grizzly Bear",
       "album": "Veckatimest",
       "genre": "Rock, Folk, World, & Country",
-      "year": 2009
+      "year": 2009,
+      "purchasing": false
     },
     {
+      "id": 6912069,
       "artist": "Hvob",
       "album": "Trialog",
       "genre": "Electronic",
-      "year": 2015
+      "year": 2015,
+      "purchasing": false
     },
     {
+      "id": 16470315,
       "artist": "Interpol",
       "album": "Turn On The Bright Lights",
       "genre": "Rock",
-      "year": 2002
+      "year": 2002,
+      "purchasing": false
     },
     {
+      "id": 29667631,
       "artist": "Jack White (2)",
       "album": "Lazaretto",
       "genre": "Rock",
-      "year": 2014
+      "year": 2014,
+      "purchasing": false
     },
     {
+      "id": 28186123,
       "artist": "Jalen N'Gonda",
       "album": "Come Around And Love Me",
       "genre": "Funk / Soul",
-      "year": 2023
+      "year": 2023,
+      "purchasing": false
     },
     {
+      "id": 25041760,
       "artist": "Jamiroquai",
       "album": "A Funk Odyssey",
       "genre": "Funk / Soul, Pop",
-      "year": 2001
+      "year": 2001,
+      "purchasing": false
     },
     {
+      "id": 11108275,
       "artist": "Jamiroquai",
       "album": "Emergency On Planet Earth",
       "genre": "Jazz, Rock, Funk / Soul, Pop, Folk, World, & Country",
-      "year": 1993
+      "year": 1993,
+      "purchasing": false
     },
     {
+      "id": 11591040,
       "artist": "Jamiroquai",
       "album": "Synkronized",
       "genre": "Electronic, Jazz, Funk / Soul, Pop",
-      "year": 1999
+      "year": 1999,
+      "purchasing": false
     },
     {
+      "id": 26132159,
       "artist": "Jeff Buckley",
       "album": "Grace",
       "genre": "Rock",
-      "year": 1994
+      "year": 1994,
+      "purchasing": false
     },
     {
+      "id": 24748850,
       "artist": "Joni Mitchell",
       "album": "Blue",
       "genre": "Rock",
-      "year": 1971
+      "year": 1971,
+      "purchasing": false
     },
     {
+      "id": 8729410,
       "artist": "Jurassic 5",
       "album": "Power In Numbers",
       "genre": "Hip Hop",
-      "year": 2002
+      "year": 2002,
+      "purchasing": false
     },
     {
+      "id": 5189754,
       "artist": "Jurassic 5",
       "album": "Quality Control",
       "genre": "Hip Hop",
-      "year": 2000
+      "year": 2000,
+      "purchasing": false
     },
     {
+      "id": 560127,
       "artist": "Kate Bush",
       "album": "Hounds Of Love",
       "genre": "Electronic, Rock, Pop, Folk, World, & Country",
-      "year": 1985
+      "year": 1985,
+      "purchasing": false
     },
     {
+      "id": 24949699,
       "artist": "Kendrick Lamar",
       "album": "Good Kid, M.A.A.D City",
       "genre": "Hip Hop",
-      "year": 2012
+      "year": 2012,
+      "purchasing": false
     },
     {
+      "id": 23398166,
       "artist": "Kendrick Lamar",
       "album": "To Pimp A Butterfly",
       "genre": "Hip Hop, Jazz, Funk / Soul",
-      "year": 2015
+      "year": 2015,
+      "purchasing": false
     },
     {
+      "id": 6343578,
       "artist": "King Crimson",
       "album": "In The Court Of The Crimson King (An Observation By King Crimson)",
       "genre": "Rock",
-      "year": 1969
+      "year": 1969,
+      "purchasing": false
     },
     {
+      "id": 12477585,
       "artist": "Korn",
       "album": "Follow The Leader",
       "genre": "Rock",
-      "year": 1998
+      "year": 1998,
+      "purchasing": false
     },
     {
+      "id": 35725471,
       "artist": "Korn",
       "album": "See You On The Other Side",
       "genre": "Rock",
-      "year": 2005
+      "year": 2005,
+      "purchasing": false
     },
     {
+      "id": 3486128,
       "artist": "Kyuss",
       "album": "...And The Circus Leaves Town",
       "genre": "Rock",
-      "year": 1995
+      "year": 1995,
+      "purchasing": false
     },
     {
+      "id": 2518312,
       "artist": "Kyuss",
       "album": "Welcome To Sky Valley",
       "genre": "Rock",
-      "year": 1994
+      "year": 1994,
+      "purchasing": false
     },
     {
+      "id": 9691744,
       "artist": "LCD Soundsystem",
       "album": "Sound Of Silver",
       "genre": "Electronic, Rock",
-      "year": 2007
+      "year": 2007,
+      "purchasing": false
     },
     {
+      "id": 28939996,
       "artist": "Limp Bizkit",
       "album": "Chocolate Starfish And The Hot Dog Flavored Water",
       "genre": "Hip Hop, Rock",
-      "year": 2000
+      "year": 2000,
+      "purchasing": false
     },
     {
+      "id": 31311138,
       "artist": "Linkin Park",
       "album": "Meteora",
       "genre": "Rock",
-      "year": 2003
+      "year": 2003,
+      "purchasing": false
     },
     {
+      "id": 11819611,
       "artist": "Lorde",
       "album": "Melodrama",
       "genre": "Pop",
-      "year": 2017
+      "year": 2017,
+      "purchasing": false
     },
     {
+      "id": 3187666,
       "artist": "M83",
       "album": "Hurry Up, We're Dreaming.",
       "genre": "Electronic, Rock",
-      "year": 2011
+      "year": 2011,
+      "purchasing": false
     },
     {
+      "id": 35479939,
       "artist": "Mammoth WVH",
       "album": "The End",
       "genre": "Rock",
-      "year": 2025
+      "year": 2025,
+      "purchasing": false
     },
     {
+      "id": 9442778,
       "artist": "Massive Attack",
       "album": "Blue Lines",
       "genre": "Electronic",
-      "year": 1991
+      "year": 1991,
+      "purchasing": false
     },
     {
+      "id": 5077187,
       "artist": "Massive Attack",
       "album": "Mezzanine",
       "genre": "Electronic",
-      "year": 1998
+      "year": 1998,
+      "purchasing": false
     },
     {
+      "id": 22739777,
       "artist": "Mazzy Star",
       "album": "So Tonight That I Might See",
       "genre": "Rock, Pop",
-      "year": 1993
+      "year": 1993,
+      "purchasing": false
     },
     {
+      "id": 12733201,
       "artist": "Metallica",
       "album": "...And Justice For All",
       "genre": "Rock",
-      "year": 1988
+      "year": 1988,
+      "purchasing": false
     },
     {
+      "id": 439599,
       "artist": "Metallica",
       "album": "Metallica",
       "genre": "Rock",
-      "year": 1991
+      "year": 1991,
+      "purchasing": false
     },
     {
+      "id": 1584186,
       "artist": "MGMT",
       "album": "Oracular Spectacular",
       "genre": "Electronic, Rock, Pop",
-      "year": 2007
+      "year": 2007,
+      "purchasing": false
     },
     {
+      "id": 25028983,
       "artist": "Moby",
       "album": "Play",
       "genre": "Electronic",
-      "year": 1999
+      "year": 1999,
+      "purchasing": false
     },
     {
+      "id": 8282220,
       "artist": "Moderat",
       "album": "III",
       "genre": "Electronic",
-      "year": 2016
+      "year": 2016,
+      "purchasing": false
     },
     {
+      "id": 6885932,
+      "artist": "Mos Def",
+      "album": "Black On Both Sides",
+      "genre": "Hip Hop",
+      "year": 1999,
+      "purchasing": true
+    },
+    {
+      "id": 17750938,
       "artist": "Muse",
       "album": "Absolution",
       "genre": "Electronic, Rock, Pop, Classical",
-      "year": 2003
+      "year": 2003,
+      "purchasing": false
     },
     {
+      "id": 16278431,
       "artist": "Muse",
       "album": "Origin Of Symmetry",
       "genre": "Rock",
-      "year": 2001
+      "year": 2001,
+      "purchasing": false
     },
     {
+      "id": 7219867,
       "artist": "Muse",
       "album": "Showbiz",
       "genre": "Rock",
-      "year": 1999
+      "year": 1999,
+      "purchasing": false
     },
     {
+      "id": 30279773,
       "artist": "Neil Frances (2)",
       "album": "It's All a Bit Fuzzy",
       "genre": "Electronic, Rock, Pop",
-      "year": 2024
+      "year": 2024,
+      "purchasing": false
     },
     {
+      "id": 3415833,
       "artist": "Neil Young",
       "album": "Harvest",
       "genre": "Rock",
-      "year": 1972
+      "year": 1972,
+      "purchasing": false
     },
     {
+      "id": 1764159,
       "artist": "Neil Young, Crazy Horse",
       "album": "Zuma",
       "genre": "Rock",
-      "year": 1975
+      "year": 1975,
+      "purchasing": false
     },
     {
+      "id": 34067497,
       "artist": "Nine Inch Nails",
       "album": "With Teeth",
       "genre": "Electronic, Rock",
-      "year": 2005
+      "year": 2005,
+      "purchasing": false
     },
     {
+      "id": 7545132,
       "artist": "Nirvana",
       "album": "In Utero",
       "genre": "Rock",
-      "year": 1993
+      "year": 1993,
+      "purchasing": false
     },
     {
+      "id": 27535212,
       "artist": "Olivia Dean",
       "album": "Messy",
       "genre": "Funk / Soul, Pop",
-      "year": 2023
+      "year": 2023,
+      "purchasing": false
     },
     {
+      "id": 19893769,
       "artist": "Olivia Rodrigo",
       "album": "Sour",
       "genre": "Rock, Pop",
-      "year": 2021
+      "year": 2021,
+      "purchasing": false
     },
     {
+      "id": 7650075,
       "artist": "Pearl Jam",
       "album": "Ten",
       "genre": "Rock",
-      "year": 1991
+      "year": 1991,
+      "purchasing": false
     },
     {
+      "id": 6709476,
       "artist": "Phoenix",
       "album": "Alphabetical",
       "genre": "Electronic, Rock, Pop",
-      "year": 2004
+      "year": 2004,
+      "purchasing": false
     },
     {
+      "id": 702327,
       "artist": "Phoenix",
       "album": "It's Never Been Like That",
       "genre": "Rock",
-      "year": 2006
+      "year": 2006,
+      "purchasing": false
     },
     {
+      "id": 7528509,
       "artist": "Pink Floyd",
       "album": "Animals",
       "genre": "Rock",
-      "year": 1977
+      "year": 1977,
+      "purchasing": false
     },
     {
+      "id": 781780,
       "artist": "Pixies",
       "album": "Death To The Pixies",
       "genre": "Rock",
-      "year": 1997
+      "year": 1997,
+      "purchasing": false
     },
     {
+      "id": 17545360,
       "artist": "PJ Harvey",
       "album": "Stories From The City, Stories From The Sea",
       "genre": "Rock",
-      "year": 2000
+      "year": 2000,
+      "purchasing": false
     },
     {
+      "id": 13723107,
       "artist": "Placebo",
       "album": "Meds",
       "genre": "Rock",
-      "year": 2006
+      "year": 2006,
+      "purchasing": false
     },
     {
+      "id": 13691819,
       "artist": "Placebo",
       "album": "Sleeping With Ghosts",
       "genre": "Rock",
-      "year": 2003
+      "year": 2003,
+      "purchasing": false
     },
     {
+      "id": 13691610,
       "artist": "Placebo",
       "album": "Without You I'm Nothing",
       "genre": "Rock",
-      "year": 1998
+      "year": 1998,
+      "purchasing": false
     },
     {
+      "id": 8712137,
       "artist": "Radiohead",
       "album": "Amnesiac",
       "genre": "Electronic, Rock",
-      "year": 2001
+      "year": 2001,
+      "purchasing": false
     },
     {
+      "id": 25815409,
       "artist": "Radiohead",
       "album": "Hail To The Thief",
       "genre": "Electronic, Rock",
-      "year": 2003
+      "year": 2003,
+      "purchasing": false
     },
     {
+      "id": 25979578,
       "artist": "Raye (3)",
       "album": "My 21st Century Blues ",
       "genre": "Electronic, Hip Hop, Pop",
-      "year": 2023
+      "year": 2023,
+      "purchasing": false
     },
     {
+      "id": 15276024,
       "artist": "Red Hot Chili Peppers",
       "album": "By The Way",
       "genre": "Rock",
-      "year": 2002
+      "year": 2002,
+      "purchasing": false
     },
     {
+      "id": 8969170,
       "artist": "Red Hot Chili Peppers",
       "album": "Mother's Milk",
       "genre": "Rock",
-      "year": 1989
+      "year": 1989,
+      "purchasing": false
     },
     {
+      "id": 35578378,
       "artist": "Rosalía (3)",
       "album": "Lux",
       "genre": "Electronic, Latin, Pop, Classical, Folk, World, & Country",
-      "year": 2025
+      "year": 2025,
+      "purchasing": false
     },
     {
+      "id": 30154298,
       "artist": "Röyksopp",
       "album": "The Inevitable End",
       "genre": "Electronic, Pop",
-      "year": 2014
+      "year": 2014,
+      "purchasing": false
     },
     {
+      "id": 27608496,
       "artist": "Rüfüs Du Sol",
       "album": "Live From Joshua Tree",
       "genre": "Electronic",
-      "year": 2023
+      "year": 2023,
+      "purchasing": false
     },
     {
+      "id": 947850,
       "artist": "Sade",
       "album": "Diamond Life",
       "genre": "Jazz, Funk / Soul",
-      "year": 1984
+      "year": 1984,
+      "purchasing": false
     },
     {
+      "id": 2877898,
       "artist": "Selah Sue",
       "album": "Selah Sue",
       "genre": "Reggae, Pop",
-      "year": 2011
+      "year": 2011,
+      "purchasing": false
     },
     {
+      "id": 19892212,
+      "artist": "Sheryl Crow",
+      "album": "Live From The Ryman And More",
+      "genre": "Rock, Pop, Folk, World, & Country",
+      "year": 2021,
+      "purchasing": false
+    },
+    {
+      "id": 6589854,
       "artist": "Sigur Rós",
       "album": "Ágætis Byrjun",
       "genre": "Electronic, Rock",
-      "year": 1999
+      "year": 1999,
+      "purchasing": false
     },
     {
+      "id": 851621,
       "artist": "Simon & Garfunkel",
       "album": "Bookends",
       "genre": "Rock",
-      "year": 1968
+      "year": 1968,
+      "purchasing": false
     },
     {
+      "id": 17298268,
       "artist": "Simon & Garfunkel",
       "album": "Bridge Over Troubled Water",
       "genre": "Rock, Folk, World, & Country",
-      "year": 1970
+      "year": 1970,
+      "purchasing": false
     },
     {
+      "id": 11855892,
       "artist": "Snoop Dogg",
       "album": "Doggystyle",
       "genre": "Hip Hop",
-      "year": 1993
+      "year": 1993,
+      "purchasing": false
     },
     {
+      "id": 25791373,
       "artist": "Soundgarden",
       "album": "Superunknown",
       "genre": "Rock",
-      "year": 1994
+      "year": 1994,
+      "purchasing": false
     },
     {
+      "id": 9733537,
       "artist": "Sum 41",
       "album": "All Killer No Filler",
       "genre": "Rock",
-      "year": 2001
+      "year": 2001,
+      "purchasing": false
     },
     {
+      "id": 171942,
       "artist": "Talking Heads",
       "album": "Little Creatures",
       "genre": "Rock",
-      "year": 1985
+      "year": 1985,
+      "purchasing": false
     },
     {
+      "id": 6403240,
       "artist": "Tame Impala",
       "album": "Innerspeaker",
       "genre": "Rock",
-      "year": 2010
+      "year": 2010,
+      "purchasing": false
     },
     {
+      "id": 806769,
       "artist": "The Beatles",
       "album": "Abbey Road",
       "genre": "Rock",
-      "year": 1969
+      "year": 1969,
+      "purchasing": false
     },
     {
+      "id": 1156961,
       "artist": "The Byrds",
       "album": "Mr. Tambourine Man",
       "genre": "Rock",
-      "year": 1965
+      "year": 1965,
+      "purchasing": false
     },
     {
+      "id": 1830706,
       "artist": "The Byrds",
       "album": "The Notorious Byrds Brothers ... Space Odyssey",
       "genre": "Rock, Folk, World, & Country",
-      "year": 1968
+      "year": 1968,
+      "purchasing": false
     },
     {
+      "id": 5265955,
       "artist": "The Desert Sessions",
       "album": "9 I See You Hearing Me & 10 I Heart Disco",
       "genre": "Rock",
-      "year": 2003
+      "year": 2003,
+      "purchasing": false
     },
     {
+      "id": 26536988,
       "artist": "The Doors",
       "album": "The Doors",
       "genre": "Rock",
-      "year": 1967
+      "year": 1967,
+      "purchasing": false
     },
     {
+      "id": 5309158,
       "artist": "The Flaming Lips",
       "album": "Yoshimi Battles The Pink Robots",
       "genre": "Electronic, Rock",
-      "year": 2002
+      "year": 2002,
+      "purchasing": false
     },
     {
+      "id": 8564231,
       "artist": "The Killers",
       "album": "Hot Fuss",
       "genre": "Rock",
-      "year": 2004
+      "year": 2004,
+      "purchasing": false
     },
     {
+      "id": 16932570,
       "artist": "The Kinks",
       "album": "Kinks",
       "genre": "Rock",
-      "year": 1964
+      "year": 1964,
+      "purchasing": false
     },
     {
+      "id": 2265783,
       "artist": "The National",
       "album": "High Violet",
       "genre": "Rock",
-      "year": 2010
+      "year": 2010,
+      "purchasing": false
     },
     {
+      "id": 10811504,
       "artist": "The National",
       "album": "Trouble Will Find Me",
       "genre": "Rock",
-      "year": 2013
+      "year": 2013,
+      "purchasing": false
     },
     {
+      "id": 6852934,
       "artist": "The Prodigy",
       "album": "The Fat Of The Land",
       "genre": "Electronic",
-      "year": 1997
+      "year": 1997,
+      "purchasing": false
     },
     {
+      "id": 11227835,
       "artist": "The Rolling Stones",
       "album": "Sticky Fingers",
       "genre": "Rock, Blues",
-      "year": 1971
+      "year": 1971,
+      "purchasing": false
     },
     {
+      "id": 5366579,
       "artist": "The Roots",
       "album": "Things Fall Apart",
       "genre": "Hip Hop",
-      "year": 1999
+      "year": 1999,
+      "purchasing": false
     },
     {
+      "id": 8014017,
       "artist": "The Smiths",
       "album": "Meat Is Murder",
       "genre": "Rock",
-      "year": 1985
+      "year": 1985,
+      "purchasing": false
     },
     {
+      "id": 3564656,
       "artist": "The Smiths",
       "album": "The Queen Is Dead",
       "genre": "Rock, Pop",
-      "year": 1986
+      "year": 1986,
+      "purchasing": false
     },
     {
+      "id": 15249054,
       "artist": "The Strokes",
       "album": "The New Abnormal",
       "genre": "Electronic, Rock",
-      "year": 2020
+      "year": 2020,
+      "purchasing": false
     },
     {
+      "id": 22649960,
       "artist": "The White Stripes",
       "album": "De Stijl",
       "genre": "Rock",
-      "year": 2000
+      "year": 2000,
+      "purchasing": false
     },
     {
+      "id": 26820938,
       "artist": "The White Stripes",
       "album": "Elephant",
       "genre": "Rock",
-      "year": 2003
+      "year": 2003,
+      "purchasing": false
     },
     {
+      "id": 1044427,
       "artist": "The Who",
       "album": "Tommy",
       "genre": "Rock",
-      "year": 1969
+      "year": 1969,
+      "purchasing": false
     },
     {
+      "id": 23846420,
       "artist": "Them Crooked Vultures",
       "album": "Them Crooked Vultures",
       "genre": "Rock",
-      "year": 2009
+      "year": 2009,
+      "purchasing": false
     },
     {
+      "id": 25416328,
       "artist": "Thom Yorke",
       "album": "The Eraser",
       "genre": "Electronic, Rock",
-      "year": 2006
+      "year": 2006,
+      "purchasing": false
     },
     {
+      "id": 24885233,
       "artist": "Tool (2)",
       "album": "10,000 Days",
       "genre": "Rock",
-      "year": 2006
+      "year": 2006,
+      "purchasing": false
     },
     {
+      "id": 4274296,
       "artist": "Tool (2)",
       "album": "Ænima",
       "genre": "Rock",
-      "year": 1996
+      "year": 1996,
+      "purchasing": false
     },
     {
+      "id": 16953198,
       "artist": "Tracy Chapman",
       "album": "Tracy Chapman",
       "genre": "Rock",
-      "year": 1988
+      "year": 1988,
+      "purchasing": false
     },
     {
+      "id": 33543993,
       "artist": "Tracy Chapman",
       "album": "Tracy Chapman",
       "genre": "Rock",
-      "year": 1988
+      "year": 1988,
+      "purchasing": false
     },
     {
+      "id": 4532126,
       "artist": "Valerie June",
       "album": "Pushin' Against A Stone",
       "genre": "Funk / Soul",
-      "year": 2013
+      "year": 2013,
+      "purchasing": false
     },
     {
+      "id": 1245209,
       "artist": "Vampire Weekend",
       "album": "Vampire Weekend",
       "genre": "Rock",
-      "year": 2008
+      "year": 2008,
+      "purchasing": false
     },
     {
+      "id": 9680240,
       "artist": "Weezer",
       "album": "Pinkerton",
       "genre": "Rock",
-      "year": 1996
+      "year": 1996,
+      "purchasing": false
     },
     {
+      "id": 2004531,
       "artist": "Weezer",
       "album": "Raditude",
       "genre": "Rock, Pop",
-      "year": 2009
+      "year": 2009,
+      "purchasing": false
     },
     {
+      "id": 24415436,
       "artist": "Weezer",
       "album": "Weezer",
       "genre": "Rock",
-      "year": 1994
+      "year": 1994,
+      "purchasing": false
     },
     {
+      "id": 10929212,
       "artist": "Wolf Alice",
       "album": "Visions Of A Life",
       "genre": "Rock",
-      "year": 2017
+      "year": 2017,
+      "purchasing": false
     }
   ]
 }

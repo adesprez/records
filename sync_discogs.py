@@ -99,6 +99,7 @@ def fetch_collection(
     simplified: List[Dict[str, Any]] = []
     for entry in all_releases:
         info = entry.get("basic_information", {})
+        release_id = info.get("id")
         artists = info.get("artists", []) or []
         artist_names = ", ".join(a.get("name", "") for a in artists if a.get("name"))
 
@@ -121,6 +122,7 @@ def fetch_collection(
 
         simplified.append(
             {
+                "id": release_id,
                 "artist": artist_names,
                 "album": info.get("title", ""),
                 "genre": genre_str,
@@ -146,6 +148,7 @@ def fetch_wantlist(
     simplified: List[Dict[str, Any]] = []
     for entry in all_items:
         info = entry.get("basic_information", {})
+        release_id = info.get("id")
         artists = info.get("artists", []) or []
         artist_names = ", ".join(a.get("name", "") for a in artists if a.get("name"))
 
@@ -166,12 +169,20 @@ def fetch_wantlist(
         genres = info.get("genres") or []
         genre_str = ", ".join(g for g in genres if g)
 
+        notes = entry.get("notes") or ""
+        if not isinstance(notes, str):
+            notes = str(notes)
+        lower_notes = notes.lower()
+        is_purchasing = "purchas" in lower_notes
+
         simplified.append(
             {
+                "id": release_id,
                 "artist": artist_names,
                 "album": info.get("title", ""),
                 "genre": genre_str,
                 "year": year,
+                "purchasing": is_purchasing,
             }
         )
 

@@ -33,6 +33,7 @@
   let currentSort = { key: 'artist', direction: 'asc' };
   let collectionMeta = null;
   let wantlistMeta = null;
+  let collectionIds = new Set();
 
   function renderTable(data) {
     const tbody = document.querySelector('#collection-table tbody');
@@ -71,8 +72,24 @@
 
       const yearTd = document.createElement('td');
       yearTd.textContent = item.year || '';
-      tr.appendChild(yearTd);
+      const isPurchasingRow =
+        currentView === 'wantlist' &&
+        item.purchasing &&
+        item.id != null &&
+        !collectionIds.has(item.id);
 
+      if (isPurchasingRow) {
+        const statusSpan = document.createElement('span');
+        statusSpan.className = 'purchase-status';
+        statusSpan.textContent = 'Purchase ongoing...';
+
+        yearTd.appendChild(document.createTextNode(' '));
+        yearTd.appendChild(statusSpan);
+
+        tr.classList.add('is-purchasing');
+      }
+
+      tr.appendChild(yearTd);
       tbody.appendChild(tr);
     });
 
@@ -202,6 +219,12 @@
         ...item,
         genre: item.genre || '',
       }));
+
+      collectionIds = new Set(
+        (collectionData || [])
+          .map((item) => item.id)
+          .filter((id) => id != null),
+      );
 
       if (wantlistRes.ok) {
         const wantlistJson = await wantlistRes.json();

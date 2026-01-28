@@ -194,6 +194,25 @@ body {
   color: var(--muted);
 }
 
+/* Wantlist rows that are currently being purchased and not yet in the collection */
+#collection-table tbody tr.is-purchasing {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  background-color: color-mix(in srgb, var(--bg-elevated) 90%, var(--accent) 10%);
+}
+
+.purchase-status {
+  display: inline-block;
+  margin-left: 0.4rem;
+  padding: 0.1rem 0.4rem;
+  border-radius: 999px;
+  border: 1px solid var(--accent);
+  color: var(--accent);
+  font-size: 0.8rem;
+  /* text-transform: uppercase; */
+  letter-spacing: 0.04em;
+}
+
 .footer {
   display: flex;
   justify-content: flex-end;
