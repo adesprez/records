@@ -33,6 +33,24 @@ body {
   color: var(--fg);
 }
 
+html,
+body,
+.top-bar,
+.main-content,
+.table-wrapper,
+#collection-table,
+#collection-table th,
+#collection-table td,
+#theme-toggle,
+.view-switch,
+.purchase-status {
+  transition:
+    background-color 0.25s ease,
+    color 0.25s ease,
+    border-color 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
 .top-bar {
   position: sticky;
   top: 0;
