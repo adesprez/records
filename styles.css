@@ -262,21 +262,33 @@ body,
 .theme-toggle-icon {
   width: 18px;
   height: 18px;
-  border-radius: 999px;
-  border: 1px solid var(--border);
-  background: radial-gradient(circle at 30% 25%, var(--accent) 0, transparent 50%),
-    radial-gradient(circle at 75% 80%, color-mix(in srgb, var(--accent) 40%, transparent) 0, transparent 60%),
-    var(--bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.theme-toggle-label {
+.theme-toggle-icon-svg {
+  width: 18px;
+  height: 18px;
+}
+
+.theme-icon-sun,
+.theme-icon-moon {
   display: none;
 }
 
-@media (min-width: 640px) {
-  .theme-toggle-label {
-    display: inline;
-  }
+/* Default/light: show moon */
+.theme-icon-moon {
+  display: block;
+}
+
+/* Dark theme: show sun instead */
+[data-theme="dark"] .theme-icon-sun {
+  display: block;
+}
+
+[data-theme="dark"] .theme-icon-moon {
+  display: none;
 }
 
 @media (max-width: 640px) {
