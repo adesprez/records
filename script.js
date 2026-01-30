@@ -10,7 +10,7 @@
   }
 
   function initTheme() {
-    const stored = localStorage.getItem('theme');
+    const stored = localStorage.getItem('records.theme');
     if (stored === 'dark' || stored === 'light') {
       applyTheme(stored);
       return;
@@ -24,7 +24,7 @@
     const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
     const next = isDark ? 'light' : 'dark';
     applyTheme(next);
-    localStorage.setItem('theme', next);
+    localStorage.setItem('records.theme', next);
   }
 
   let currentView = 'collection';
@@ -43,8 +43,20 @@
       select.value = currentView;
     }
 
+    const desktopToggle = document.querySelectorAll('.view-toggle-button');
+    if (desktopToggle && desktopToggle.length) {
+      desktopToggle.forEach((btn) => {
+        const btnView = btn.getAttribute('data-view');
+        if (btnView === currentView) {
+          btn.classList.add('is-active');
+        } else {
+          btn.classList.remove('is-active');
+        }
+      });
+    }
+
     try {
-      localStorage.setItem('view', currentView);
+      localStorage.setItem('records.view', currentView);
     } catch (e) {
       // ignore storage errors
     }
@@ -57,7 +69,7 @@
   function initView() {
     let initial = 'collection';
     try {
-      const stored = localStorage.getItem('view');
+      const stored = localStorage.getItem('records.view');
       if (stored === 'wantlist' || stored === 'collection') {
         initial = stored;
       }
@@ -303,6 +315,14 @@
     select.addEventListener('change', () => {
       const next = select.value === 'wantlist' ? 'wantlist' : 'collection';
       setView(next);
+    });
+
+    const desktopButtons = document.querySelectorAll('.view-toggle-button');
+    desktopButtons.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const view = btn.getAttribute('data-view');
+        setView(view === 'wantlist' ? 'wantlist' : 'collection');
+      });
     });
   }
 

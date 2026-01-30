@@ -100,6 +100,10 @@ body,
   outline: none;
 }
 
+.view-toggle-desktop {
+  display: none;
+}
+
 .main-content {
   max-width: 1100px;
   margin: 0 auto;
@@ -313,5 +317,45 @@ body,
     display: block;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
+  }
+}
+
+@media (min-width: 640px) {
+  #view-select {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+    width: 0;
+    height: 0;
+  }
+
+  .view-switch {
+    gap: 0.3rem;
+    padding: 0.25rem 0.3rem;
+  }
+
+  .view-toggle-desktop {
+    display: inline-flex;
+    border-radius: 999px;
+    background-color: var(--bg);
+    padding: 0.1rem;
+  }
+
+  .view-toggle-button {
+    border: none;
+    background: transparent;
+    color: var(--muted);
+    padding: 0.2rem 0.7rem;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    cursor: pointer;
+    transition:
+      background-color 0.25s ease,
+      color 0.25s ease;
+  }
+
+  .view-toggle-button.is-active {
+    background-color: var(--accent);
+    color: #ffffff;
   }
 }
