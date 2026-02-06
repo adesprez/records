@@ -19,10 +19,12 @@
         <select id="view-select">
           <option value="collection">Collection</option>
           <option value="wantlist">Wantlist</option>
+          <option value="stats">Stats</option>
         </select>
         <div class="view-toggle-desktop" aria-hidden="true">
           <button type="button" class="view-toggle-button" data-view="collection">Collection</button>
           <button type="button" class="view-toggle-button" data-view="wantlist">Wantlist</button>
+          <button type="button" class="view-toggle-button" data-view="stats">Stats</button>
         </div>
       </label>
       <button id="theme-toggle" type="button" aria-label="Toggle dark/light theme">
@@ -75,6 +77,10 @@
           </tr>
         </tbody>
       </table>
+    </section>
+
+    <section id="stats-view" class="stats-view" hidden>
+      <!-- Filled dynamically by script.js -->
     </section>
 
     <footer class="footer">
