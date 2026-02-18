@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-17T04:46:00.170941+00:00",
+  "updated_at": "2026-02-18T04:46:46.655515+00:00",
   "items": [
     {
       "id": 11858011,
@@ -1207,6 +1207,14 @@
       "album": "Tracy Chapman",
       "genre": "Rock",
       "year": 1988,
+      "purchasing": false
+    },
+    {
+      "id": 8395072,
+      "artist": "Truckfighters",
+      "album": "Mania",
+      "genre": "Rock",
+      "year": 2009,
       "purchasing": false
     },
     {
