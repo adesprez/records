@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-19T04:46:14.006664+00:00",
+  "updated_at": "2026-02-20T04:30:22.866750+00:00",
   "items": [
     {
       "id": 11858011,
@@ -1087,6 +1087,14 @@
       "album": "Yoshimi Battles The Pink Robots",
       "genre": "Electronic, Rock",
       "year": 2002,
+      "purchasing": false
+    },
+    {
+      "id": 1861202,
+      "artist": "The Gossip",
+      "album": "Music For Men",
+      "genre": "Electronic, Rock",
+      "year": 2009,
       "purchasing": false
     },
     {
