@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-20T04:30:22.866750+00:00",
+  "updated_at": "2026-02-21T04:22:02.864301+00:00",
   "items": [
     {
       "id": 11858011,
@@ -199,6 +199,14 @@
       "album": "Tea For The Tillerman",
       "genre": "Rock, Pop",
       "year": 1970,
+      "purchasing": false
+    },
+    {
+      "id": 29147968,
+      "artist": "Chappell Roan",
+      "album": "The Rise And Fall Of A Midwest Princess",
+      "genre": "Pop",
+      "year": 2023,
       "purchasing": false
     },
     {
@@ -623,6 +631,14 @@
       "album": "Meteora",
       "genre": "Rock",
       "year": 2003,
+      "purchasing": false
+    },
+    {
+      "id": 33059832,
+      "artist": "Lola Young",
+      "album": "This Wasn't Meant For You Anyway",
+      "genre": "Funk / Soul, Pop",
+      "year": 2024,
       "purchasing": false
     },
     {
@@ -1231,14 +1247,6 @@
       "album": "Ænima",
       "genre": "Rock",
       "year": 1996,
-      "purchasing": false
-    },
-    {
-      "id": 16953198,
-      "artist": "Tracy Chapman",
-      "album": "Tracy Chapman",
-      "genre": "Rock",
-      "year": 1988,
       "purchasing": false
     },
     {
