@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-28T04:11:27.668614+00:00",
+  "updated_at": "2026-02-28T07:54:37.690124+00:00",
   "items": [
     {
       "id": 11858011,
@@ -730,14 +730,6 @@
       "purchasing": false
     },
     {
-      "id": 17750938,
-      "artist": "Muse",
-      "album": "Absolution",
-      "genre": "Electronic, Rock, Pop, Classical",
-      "year": 2003,
-      "purchasing": false
-    },
-    {
       "id": 16278431,
       "artist": "Muse",
       "album": "Origin Of Symmetry",
@@ -831,14 +823,6 @@
       "album": "It's Never Been Like That",
       "genre": "Rock",
       "year": 2006,
-      "purchasing": false
-    },
-    {
-      "id": 7528509,
-      "artist": "Pink Floyd",
-      "album": "Animals",
-      "genre": "Rock",
-      "year": 1977,
       "purchasing": false
     },
     {

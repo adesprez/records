@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-28T04:11:27.668600+00:00",
+  "updated_at": "2026-02-28T07:54:37.690111+00:00",
   "items": [
     {
       "id": 14270021,
@@ -660,6 +660,13 @@
       "year": 2022
     },
     {
+      "id": 17750938,
+      "artist": "Muse",
+      "album": "Absolution",
+      "genre": "Electronic, Rock, Pop, Classical",
+      "year": 2003
+    },
+    {
       "id": 19412998,
       "artist": "Nada Surf",
       "album": "High/Low",
@@ -735,6 +742,13 @@
       "album": "A Foot In The Door (The Best Of Pink Floyd)",
       "genre": "Rock",
       "year": 2011
+    },
+    {
+      "id": 7528509,
+      "artist": "Pink Floyd",
+      "album": "Animals",
+      "genre": "Rock",
+      "year": 1977
     },
     {
       "id": 11084270,
