@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T04:29:38.119311+00:00",
+  "updated_at": "2026-03-20T08:36:44.495177+00:00",
   "items": [
     {
       "id": 14270021,
@@ -548,6 +548,13 @@
       "year": 2007
     },
     {
+      "id": 4318822,
+      "artist": "Kavinsky",
+      "album": "Outrun",
+      "genre": "Electronic",
+      "year": 2013
+    },
+    {
       "id": 25683820,
       "artist": "Kendrick Lamar",
       "album": "Damn.",
@@ -625,6 +632,13 @@
       "year": 1998
     },
     {
+      "id": 22739777,
+      "artist": "Mazzy Star",
+      "album": "So Tonight That I Might See",
+      "genre": "Rock, Pop",
+      "year": 1993
+    },
+    {
       "id": 8385679,
       "artist": "Metallica",
       "album": "Kill 'Em All",
@@ -672,6 +686,13 @@
       "album": "Absolution",
       "genre": "Electronic, Rock, Pop, Classical",
       "year": 2003
+    },
+    {
+      "id": 15996141,
+      "artist": "Muse",
+      "album": "Black Holes And Revelations",
+      "genre": "Rock",
+      "year": 2006
     },
     {
       "id": 19412998,
@@ -889,6 +910,13 @@
       "album": "Ouvertures Et Préludes",
       "genre": "Classical",
       "year": null
+    },
+    {
+      "id": 22545482,
+      "artist": "Rosalía (3)",
+      "album": "Motomami",
+      "genre": "Electronic, Hip Hop, Latin, Pop, Folk, World, & Country",
+      "year": 2022
     },
     {
       "id": 12137124,
