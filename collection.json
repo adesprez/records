@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T04:56:02.480646+00:00",
+  "updated_at": "2026-03-23T07:56:18.498836+00:00",
   "items": [
     {
       "id": 14270021,
@@ -210,6 +210,13 @@
       "album": "Legend - The Best Of Bob Marley And The Wailers",
       "genre": "Reggae",
       "year": 1984
+    },
+    {
+      "id": 7445336,
+      "artist": "Bob Marley & The Wailers",
+      "album": "Rastaman Vibration",
+      "genre": "Reggae",
+      "year": 1976
     },
     {
       "id": 16451925,
@@ -674,6 +681,13 @@
       "year": 2011
     },
     {
+      "id": 152946,
+      "artist": "Michael Jackson",
+      "album": "Thriller",
+      "genre": "Rock, Funk / Soul, Pop",
+      "year": 1982
+    },
+    {
       "id": 23143076,
       "artist": "Moderat",
       "album": "More D4ta",
@@ -756,6 +770,13 @@
       "album": "LOVED",
       "genre": "Electronic, Rock, Pop",
       "year": 2025
+    },
+    {
+      "id": 511719,
+      "artist": "Patti Smith Group",
+      "album": "Easter",
+      "genre": "Rock",
+      "year": 1978
     },
     {
       "id": 1794338,
