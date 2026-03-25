@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T04:47:39.068730+00:00",
+  "updated_at": "2026-03-25T09:32:12.441610+00:00",
   "items": [
     {
       "id": 11858011,
@@ -296,6 +296,14 @@
       "genre": "Rock",
       "year": 2010,
       "purchasing": false
+    },
+    {
+      "id": 8348738,
+      "artist": "Deftones",
+      "album": "Gore",
+      "genre": "Rock",
+      "year": 2016,
+      "purchasing": true
     },
     {
       "id": 3651765,
@@ -1207,7 +1215,7 @@
       "album": "10,000 Days",
       "genre": "Rock",
       "year": 2006,
-      "purchasing": false
+      "purchasing": true
     },
     {
       "id": 24071501,
@@ -1223,7 +1231,7 @@
       "album": "Ænima",
       "genre": "Rock",
       "year": 1996,
-      "purchasing": false
+      "purchasing": true
     },
     {
       "id": 33543993,
