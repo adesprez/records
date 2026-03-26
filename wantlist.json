@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T09:32:12.441610+00:00",
+  "updated_at": "2026-03-26T04:59:08.824908+00:00",
   "items": [
     {
       "id": 11858011,
@@ -1247,7 +1247,7 @@
       "album": "Mania",
       "genre": "Rock",
       "year": 2009,
-      "purchasing": false
+      "purchasing": true
     },
     {
       "id": 4532126,
