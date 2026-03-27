@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T04:59:08.824908+00:00",
+  "updated_at": "2026-03-27T05:00:40.503987+00:00",
   "items": [
     {
       "id": 11858011,
@@ -95,6 +95,22 @@
       "album": "Live.Love.A$AP",
       "genre": "Hip Hop",
       "year": 2011,
+      "purchasing": false
+    },
+    {
+      "id": 13802763,
+      "artist": "Audioslave",
+      "album": "Audioslave",
+      "genre": "Rock",
+      "year": 2002,
+      "purchasing": false
+    },
+    {
+      "id": 19434703,
+      "artist": "Audioslave",
+      "album": "Revelations",
+      "genre": "Rock, Funk / Soul",
+      "year": 2006,
       "purchasing": false
     },
     {
@@ -474,6 +490,14 @@
       "purchasing": false
     },
     {
+      "id": 8258426,
+      "artist": "Iggy Pop",
+      "album": "Post Pop Depression",
+      "genre": "Rock",
+      "year": 2016,
+      "purchasing": false
+    },
+    {
       "id": 16470315,
       "artist": "Interpol",
       "album": "Turn On The Bright Lights",
@@ -615,6 +639,14 @@
       "album": "Sound Of Silver",
       "genre": "Electronic, Rock",
       "year": 2007,
+      "purchasing": false
+    },
+    {
+      "id": 765648,
+      "artist": "Led Zeppelin",
+      "album": "Physical Graffiti",
+      "genre": "Rock",
+      "year": 1975,
       "purchasing": false
     },
     {
