@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T05:16:28.348020+00:00",
+  "updated_at": "2026-03-30T09:37:39.354003+00:00",
   "items": [
     {
       "id": 11858011,
@@ -312,14 +312,6 @@
       "genre": "Rock",
       "year": 2010,
       "purchasing": false
-    },
-    {
-      "id": 8348738,
-      "artist": "Deftones",
-      "album": "Gore",
-      "genre": "Rock",
-      "year": 2016,
-      "purchasing": true
     },
     {
       "id": 3651765,
@@ -1242,28 +1234,12 @@
       "purchasing": false
     },
     {
-      "id": 24885233,
-      "artist": "Tool (2)",
-      "album": "10,000 Days",
-      "genre": "Rock",
-      "year": 2006,
-      "purchasing": true
-    },
-    {
       "id": 24071501,
       "artist": "Tool (2)",
       "album": "Fear Inoculum",
       "genre": "Rock",
       "year": 2019,
       "purchasing": false
-    },
-    {
-      "id": 4274296,
-      "artist": "Tool (2)",
-      "album": "Ænima",
-      "genre": "Rock",
-      "year": 1996,
-      "purchasing": true
     },
     {
       "id": 33543993,

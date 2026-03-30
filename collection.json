@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T05:16:28.348003+00:00",
+  "updated_at": "2026-03-30T09:37:39.353989+00:00",
   "items": [
     {
       "id": 14270021,
@@ -350,6 +350,13 @@
       "album": "Deftones",
       "genre": "Rock",
       "year": 2003
+    },
+    {
+      "id": 8348738,
+      "artist": "Deftones",
+      "album": "Gore",
+      "genre": "Rock",
+      "year": 2016
     },
     {
       "id": 4230343,
@@ -1213,6 +1220,13 @@
       "year": 2001
     },
     {
+      "id": 24885233,
+      "artist": "Tool (2)",
+      "album": "10,000 Days",
+      "genre": "Rock",
+      "year": 2006
+    },
+    {
       "id": 16280930,
       "artist": "Tool (2)",
       "album": "Lateralus",
@@ -1225,6 +1239,13 @@
       "album": "Undertow",
       "genre": "Rock",
       "year": 1993
+    },
+    {
+      "id": 4274296,
+      "artist": "Tool (2)",
+      "album": "Ænima",
+      "genre": "Rock",
+      "year": 1996
     },
     {
       "id": 8231586,
