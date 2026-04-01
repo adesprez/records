@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T05:15:00.414178+00:00",
+  "updated_at": "2026-04-01T13:23:38.910058+00:00",
   "items": [
     {
       "id": 11858011,
@@ -39,7 +39,7 @@
       "album": "25",
       "genre": "Funk / Soul, Blues, Pop",
       "year": 2015,
-      "purchasing": false
+      "purchasing": true
     },
     {
       "id": 7300160,
@@ -167,7 +167,7 @@
       "album": "Parklife",
       "genre": "Rock",
       "year": 1994,
-      "purchasing": false
+      "purchasing": true
     },
     {
       "id": 3786596,
@@ -215,7 +215,7 @@
       "album": "Woman Of Faces ",
       "genre": "Funk / Soul",
       "year": 2025,
-      "purchasing": false
+      "purchasing": true
     },
     {
       "id": 29147968,
@@ -303,7 +303,7 @@
       "album": "Around The Fur",
       "genre": "Rock",
       "year": 1997,
-      "purchasing": false
+      "purchasing": true
     },
     {
       "id": 34675510,
@@ -1039,7 +1039,7 @@
       "album": "Innerspeaker",
       "genre": "Rock",
       "year": 2010,
-      "purchasing": false
+      "purchasing": true
     },
     {
       "id": 806769,
@@ -1239,7 +1239,7 @@
       "album": "Fear Inoculum",
       "genre": "Rock",
       "year": 2019,
-      "purchasing": false
+      "purchasing": true
     },
     {
       "id": 33543993,
