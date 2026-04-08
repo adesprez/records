@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T03:55:56.465711+00:00",
+  "updated_at": "2026-04-08T03:56:35.074352+00:00",
   "items": [
     {
       "id": 14270021,
@@ -1246,6 +1246,13 @@
       "album": "Ænima",
       "genre": "Rock",
       "year": 1996
+    },
+    {
+      "id": 8395072,
+      "artist": "Truckfighters",
+      "album": "Mania",
+      "genre": "Rock",
+      "year": 2009
     },
     {
       "id": 8231586,

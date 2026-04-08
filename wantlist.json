@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T03:55:56.465727+00:00",
+  "updated_at": "2026-04-08T03:56:35.074372+00:00",
   "items": [
     {
       "id": 11858011,
@@ -1248,14 +1248,6 @@
       "genre": "Rock",
       "year": 1988,
       "purchasing": false
-    },
-    {
-      "id": 8395072,
-      "artist": "Truckfighters",
-      "album": "Mania",
-      "genre": "Rock",
-      "year": 2009,
-      "purchasing": true
     },
     {
       "id": 4532126,
