@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T03:56:35.074372+00:00",
+  "updated_at": "2026-04-09T03:55:06.069775+00:00",
   "items": [
     {
       "id": 11858011,
@@ -655,14 +655,6 @@
       "album": "Meteora",
       "genre": "Rock",
       "year": 2003,
-      "purchasing": false
-    },
-    {
-      "id": 33059832,
-      "artist": "Lola Young",
-      "album": "This Wasn't Meant For You Anyway",
-      "genre": "Funk / Soul, Pop",
-      "year": 2024,
       "purchasing": false
     },
     {

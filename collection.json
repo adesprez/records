@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T03:56:35.074352+00:00",
+  "updated_at": "2026-04-09T03:55:06.069757+00:00",
   "items": [
     {
       "id": 14270021,
@@ -632,6 +632,13 @@
       "year": 2000
     },
     {
+      "id": 33059832,
+      "artist": "Lola Young",
+      "album": "This Wasn't Meant For You Anyway",
+      "genre": "Funk / Soul, Pop",
+      "year": 2024
+    },
+    {
       "id": 5012730,
       "artist": "Lynyrd Skynyrd",
       "album": "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)",
@@ -693,6 +700,13 @@
       "album": "Thriller",
       "genre": "Rock, Funk / Soul, Pop",
       "year": 1982
+    },
+    {
+      "id": 23304140,
+      "artist": "Moby",
+      "album": "Reprise Remixes",
+      "genre": "Electronic",
+      "year": 2022
     },
     {
       "id": 23143076,
