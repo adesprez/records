@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T04:04:27.710431+00:00",
+  "updated_at": "2026-04-13T12:40:05.303741+00:00",
   "items": [
     {
       "id": 11858011,
@@ -32,14 +32,6 @@
       "genre": "Funk / Soul, Blues, Pop",
       "year": 2011,
       "purchasing": false
-    },
-    {
-      "id": 7748058,
-      "artist": "Adele (3)",
-      "album": "25",
-      "genre": "Funk / Soul, Blues, Pop",
-      "year": 2015,
-      "purchasing": true
     },
     {
       "id": 7300160,
@@ -162,14 +154,6 @@
       "purchasing": false
     },
     {
-      "id": 16849218,
-      "artist": "Blur",
-      "album": "Parklife",
-      "genre": "Rock",
-      "year": 1994,
-      "purchasing": true
-    },
-    {
       "id": 3786596,
       "artist": "Blur",
       "album": "The Great Escape",
@@ -208,14 +192,6 @@
       "genre": "Rock, Pop",
       "year": 1970,
       "purchasing": false
-    },
-    {
-      "id": 35664145,
-      "artist": "Celeste (8)",
-      "album": "Woman Of Faces ",
-      "genre": "Funk / Soul",
-      "year": 2025,
-      "purchasing": true
     },
     {
       "id": 29147968,
@@ -296,14 +272,6 @@
       "genre": "Rock",
       "year": 2005,
       "purchasing": false
-    },
-    {
-      "id": 25412104,
-      "artist": "Deftones",
-      "album": "Around The Fur",
-      "genre": "Rock",
-      "year": 1997,
-      "purchasing": true
     },
     {
       "id": 34675510,
@@ -1026,14 +994,6 @@
       "purchasing": false
     },
     {
-      "id": 6403240,
-      "artist": "Tame Impala",
-      "album": "Innerspeaker",
-      "genre": "Rock",
-      "year": 2010,
-      "purchasing": true
-    },
-    {
       "id": 806769,
       "artist": "The Beatles",
       "album": "Abbey Road",
@@ -1224,14 +1184,6 @@
       "genre": "Electronic, Rock",
       "year": 2006,
       "purchasing": false
-    },
-    {
-      "id": 24071501,
-      "artist": "Tool (2)",
-      "album": "Fear Inoculum",
-      "genre": "Rock",
-      "year": 2019,
-      "purchasing": true
     },
     {
       "id": 33543993,
