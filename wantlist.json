@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T12:40:05.303741+00:00",
+  "updated_at": "2026-04-14T04:00:08.444034+00:00",
   "items": [
     {
       "id": 11858011,
@@ -959,14 +959,6 @@
       "album": "Bridge Over Troubled Water",
       "genre": "Rock, Folk, World, & Country",
       "year": 1970,
-      "purchasing": false
-    },
-    {
-      "id": 11855892,
-      "artist": "Snoop Dogg",
-      "album": "Doggystyle",
-      "genre": "Hip Hop",
-      "year": 1993,
       "purchasing": false
     },
     {
