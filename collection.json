@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T04:04:10.516877+00:00",
+  "updated_at": "2026-05-02T17:03:18.162380+00:00",
   "items": [
     {
       "id": 14270021,
@@ -583,6 +583,13 @@
       "year": 1975
     },
     {
+      "id": 35883322,
+      "artist": "Joan Baez",
+      "album": "Joan Baez Vol. 2",
+      "genre": "Rock, Folk, World, & Country",
+      "year": 1961
+    },
+    {
       "id": 22463917,
       "artist": "Justice (3)",
       "album": "† (Cross)",
@@ -728,6 +735,13 @@
       "album": "Thriller",
       "genre": "Rock, Funk / Soul, Pop",
       "year": 1982
+    },
+    {
+      "id": 28531585,
+      "artist": "Michael Jackson, The Jackson 5",
+      "album": "Motown Anniversary",
+      "genre": "Funk / Soul, Blues",
+      "year": 2019
     },
     {
       "id": 23304140,
@@ -1281,6 +1295,13 @@
       "album": "White Blood Cells",
       "genre": "Rock",
       "year": 2001
+    },
+    {
+      "id": 36684697,
+      "artist": "The XX",
+      "album": "XX",
+      "genre": "Rock, Pop",
+      "year": 2009
     },
     {
       "id": 24885233,
