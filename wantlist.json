@@ -1,12 +1,452 @@
 {
-  "updated_at": "2026-07-26T04:09:47.287044+00:00",
+  "updated_at": "2026-07-27T04:13:50.090384+00:00",
   "items": [
     {
+      "id": 8729281,
+      "artist": "",
+      "album": "21",
+      "genre": "Funk / Soul, Blues, Pop",
+      "year": 2011,
+      "purchasing": false
+    },
+    {
+      "id": 6709476,
+      "artist": "",
+      "album": "Alphabetical",
+      "genre": "Electronic, Rock, Pop",
+      "year": 2004,
+      "purchasing": false
+    },
+    {
+      "id": 1203470,
+      "artist": "",
+      "album": "American Idiot",
+      "genre": "Rock",
+      "year": 2004,
+      "purchasing": false
+    },
+    {
+      "id": 8712137,
+      "artist": "",
+      "album": "Amnesiac",
+      "genre": "Electronic, Rock",
+      "year": 2001,
+      "purchasing": false
+    },
+    {
+      "id": 14572495,
+      "artist": "",
+      "album": "Best Of",
+      "genre": "Jazz",
+      "year": 2019,
+      "purchasing": false
+    },
+    {
+      "id": 6885932,
+      "artist": "",
+      "album": "Black On Both Sides",
+      "genre": "Hip Hop",
+      "year": 1999,
+      "purchasing": false
+    },
+    {
+      "id": 21799750,
+      "artist": "",
+      "album": "Blond",
+      "genre": "Hip Hop, Funk / Soul",
+      "year": 2016,
+      "purchasing": false
+    },
+    {
+      "id": 24748850,
+      "artist": "",
+      "album": "Blue",
+      "genre": "Rock",
+      "year": 1971,
+      "purchasing": false
+    },
+    {
+      "id": 9442778,
+      "artist": "",
+      "album": "Blue Lines",
+      "genre": "Electronic",
+      "year": 1991,
+      "purchasing": false
+    },
+    {
+      "id": 15276024,
+      "artist": "",
+      "album": "By The Way",
+      "genre": "Rock",
+      "year": 2002,
+      "purchasing": false
+    },
+    {
+      "id": 34675510,
+      "artist": "",
+      "album": "Diamond Eyes",
+      "genre": "Rock",
+      "year": 2010,
+      "purchasing": false
+    },
+    {
+      "id": 28650445,
+      "artist": "",
+      "album": "Dziewczyna Pop",
+      "genre": "Pop",
+      "year": 2023,
+      "purchasing": false
+    },
+    {
+      "id": 26820938,
+      "artist": "",
+      "album": "Elephant",
+      "genre": "Rock",
+      "year": 2003,
+      "purchasing": false
+    },
+    {
+      "id": 11108275,
+      "artist": "",
+      "album": "Emergency On Planet Earth",
+      "genre": "Jazz, Rock, Funk / Soul, Pop, Folk, World, & Country",
+      "year": 1993,
+      "purchasing": false
+    },
+    {
+      "id": 1616160,
+      "artist": "",
+      "album": "Fleetwood Mac",
+      "genre": "Rock",
+      "year": 1975,
+      "purchasing": false
+    },
+    {
+      "id": 11212033,
+      "artist": "",
+      "album": "Funeral",
+      "genre": "Rock",
+      "year": 2004,
+      "purchasing": false
+    },
+    {
+      "id": 20414716,
+      "artist": "",
+      "album": "Gorillaz",
+      "genre": "Electronic, Hip Hop, Rock, Latin, Funk / Soul, Pop",
+      "year": 2001,
+      "purchasing": false
+    },
+    {
+      "id": 25815409,
+      "artist": "",
+      "album": "Hail To The Thief",
+      "genre": "Electronic, Rock",
+      "year": 2003,
+      "purchasing": false
+    },
+    {
+      "id": 3415833,
+      "artist": "",
+      "album": "Harvest",
+      "genre": "Rock",
+      "year": 1972,
+      "purchasing": false
+    },
+    {
       "id": 15624365,
-      "artist": "21 Savage",
+      "artist": "",
       "album": "I Am > I Was",
       "genre": "Hip Hop",
       "year": 2018,
+      "purchasing": false
+    },
+    {
+      "id": 702327,
+      "artist": "",
+      "album": "It's Never Been Like That",
+      "genre": "Rock",
+      "year": 2006,
+      "purchasing": false
+    },
+    {
+      "id": 16932570,
+      "artist": "",
+      "album": "Kinks",
+      "genre": "Rock",
+      "year": 1964,
+      "purchasing": false
+    },
+    {
+      "id": 29667631,
+      "artist": "",
+      "album": "Lazaretto",
+      "genre": "Rock",
+      "year": 2014,
+      "purchasing": false
+    },
+    {
+      "id": 27608496,
+      "artist": "",
+      "album": "Live From Joshua Tree",
+      "genre": "Electronic",
+      "year": 2023,
+      "purchasing": false
+    },
+    {
+      "id": 19892212,
+      "artist": "",
+      "album": "Live From The Ryman And More",
+      "genre": "Rock, Pop, Folk, World, & Country",
+      "year": 2021,
+      "purchasing": false
+    },
+    {
+      "id": 6406827,
+      "artist": "",
+      "album": "Maggot Brain",
+      "genre": "Rock, Funk / Soul",
+      "year": 1971,
+      "purchasing": false
+    },
+    {
+      "id": 8014017,
+      "artist": "",
+      "album": "Meat Is Murder",
+      "genre": "Rock",
+      "year": 1985,
+      "purchasing": false
+    },
+    {
+      "id": 11819611,
+      "artist": "",
+      "album": "Melodrama",
+      "genre": "Pop",
+      "year": 2017,
+      "purchasing": false
+    },
+    {
+      "id": 439599,
+      "artist": "",
+      "album": "Metallica",
+      "genre": "Rock",
+      "year": 1991,
+      "purchasing": false
+    },
+    {
+      "id": 31311138,
+      "artist": "",
+      "album": "Meteora",
+      "genre": "Rock",
+      "year": 2003,
+      "purchasing": false
+    },
+    {
+      "id": 16278431,
+      "artist": "",
+      "album": "Origin Of Symmetry",
+      "genre": "Rock",
+      "year": 2001,
+      "purchasing": false
+    },
+    {
+      "id": 765648,
+      "artist": "",
+      "album": "Physical Graffiti",
+      "genre": "Rock",
+      "year": 1975,
+      "purchasing": false
+    },
+    {
+      "id": 4532126,
+      "artist": "",
+      "album": "Pushin' Against A Stone",
+      "genre": "Funk / Soul",
+      "year": 2013,
+      "purchasing": false
+    },
+    {
+      "id": 4618675,
+      "artist": "",
+      "album": "Settle",
+      "genre": "Electronic",
+      "year": 2013,
+      "purchasing": false
+    },
+    {
+      "id": 7219867,
+      "artist": "",
+      "album": "Showbiz",
+      "genre": "Rock",
+      "year": 1999,
+      "purchasing": false
+    },
+    {
+      "id": 11227835,
+      "artist": "",
+      "album": "Sticky Fingers",
+      "genre": "Rock, Blues",
+      "year": 1971,
+      "purchasing": false
+    },
+    {
+      "id": 11591040,
+      "artist": "",
+      "album": "Synkronized",
+      "genre": "Electronic, Jazz, Funk / Soul, Pop",
+      "year": 1999,
+      "purchasing": false
+    },
+    {
+      "id": 29490082,
+      "artist": "",
+      "album": "The Colour And The Shape",
+      "genre": "Rock",
+      "year": 1997,
+      "purchasing": false
+    },
+    {
+      "id": 25416328,
+      "artist": "",
+      "album": "The Eraser",
+      "genre": "Electronic, Rock",
+      "year": 2006,
+      "purchasing": false
+    },
+    {
+      "id": 6852934,
+      "artist": "",
+      "album": "The Fat Of The Land",
+      "genre": "Electronic",
+      "year": 1997,
+      "purchasing": false
+    },
+    {
+      "id": 15249054,
+      "artist": "",
+      "album": "The New Abnormal",
+      "genre": "Electronic, Rock",
+      "year": 2020,
+      "purchasing": false
+    },
+    {
+      "id": 3564656,
+      "artist": "",
+      "album": "The Queen Is Dead",
+      "genre": "Rock, Pop",
+      "year": 1986,
+      "purchasing": false
+    },
+    {
+      "id": 23846420,
+      "artist": "",
+      "album": "Them Crooked Vultures",
+      "genre": "Rock",
+      "year": 2009,
+      "purchasing": false
+    },
+    {
+      "id": 3781602,
+      "artist": "",
+      "album": "Think Tank",
+      "genre": "Rock",
+      "year": 2003,
+      "purchasing": false
+    },
+    {
+      "id": 3585734,
+      "artist": "",
+      "album": "Thirteenth Step",
+      "genre": "Rock",
+      "year": 2003,
+      "purchasing": false
+    },
+    {
+      "id": 23398166,
+      "artist": "",
+      "album": "To Pimp A Butterfly",
+      "genre": "Hip Hop, Jazz, Funk / Soul",
+      "year": 2015,
+      "purchasing": false
+    },
+    {
+      "id": 1044427,
+      "artist": "",
+      "album": "Tommy",
+      "genre": "Rock",
+      "year": 1969,
+      "purchasing": false
+    },
+    {
+      "id": 6912069,
+      "artist": "",
+      "album": "Trialog",
+      "genre": "Electronic",
+      "year": 2015,
+      "purchasing": false
+    },
+    {
+      "id": 1245209,
+      "artist": "",
+      "album": "Vampire Weekend",
+      "genre": "Rock",
+      "year": 2008,
+      "purchasing": false
+    },
+    {
+      "id": 3852834,
+      "artist": "",
+      "album": "Veckatimest",
+      "genre": "Rock, Folk, World, & Country",
+      "year": 2009,
+      "purchasing": false
+    },
+    {
+      "id": 23052539,
+      "artist": "",
+      "album": "Velour",
+      "genre": "Electronic, Funk / Soul",
+      "year": 2012,
+      "purchasing": false
+    },
+    {
+      "id": 1564429,
+      "artist": "",
+      "album": "Wheels Of Fire",
+      "genre": "Rock",
+      "year": 1968,
+      "purchasing": false
+    },
+    {
+      "id": 5309158,
+      "artist": "",
+      "album": "Yoshimi Battles The Pink Robots",
+      "genre": "Electronic, Rock",
+      "year": 2002,
+      "purchasing": false
+    },
+    {
+      "id": 8399094,
+      "artist": "",
+      "album": "Yours To Keep",
+      "genre": "Rock",
+      "year": 2016,
+      "purchasing": false
+    },
+    {
+      "id": 1764159,
+      "artist": "",
+      "album": "Zuma",
+      "genre": "Rock",
+      "year": 1975,
+      "purchasing": false
+    },
+    {
+      "id": 6589854,
+      "artist": "",
+      "album": "Ágætis Byrjun",
+      "genre": "Electronic, Rock",
+      "year": 1999,
       "purchasing": false
     },
     {
@@ -18,14 +458,6 @@
       "purchasing": false
     },
     {
-      "id": 3585734,
-      "artist": "A Perfect Circle",
-      "album": "Thirteenth Step",
-      "genre": "Rock",
-      "year": 2003,
-      "purchasing": false
-    },
-    {
       "id": 16447878,
       "artist": "A Tribe Called Quest",
       "album": "The Low End Theory",
@@ -34,27 +466,11 @@
       "purchasing": false
     },
     {
-      "id": 8729281,
-      "artist": "Adele (3)",
-      "album": "21",
-      "genre": "Funk / Soul, Blues, Pop",
-      "year": 2011,
-      "purchasing": false
-    },
-    {
       "id": 7300160,
       "artist": "Albert Hammond Jr.",
       "album": "Momentary Masters",
       "genre": "Rock",
       "year": 2015,
-      "purchasing": false
-    },
-    {
-      "id": 8399094,
-      "artist": "Albert Hammond Jr.",
-      "album": "Yours To Keep",
-      "genre": "Rock",
-      "year": 2016,
       "purchasing": false
     },
     {
@@ -71,14 +487,6 @@
       "album": "Selected Ambient Works 85-92",
       "genre": "Electronic",
       "year": 1992,
-      "purchasing": false
-    },
-    {
-      "id": 11212033,
-      "artist": "Arcade Fire",
-      "album": "Funeral",
-      "genre": "Rock",
-      "year": 2004,
       "purchasing": false
     },
     {
@@ -170,14 +578,6 @@
       "purchasing": false
     },
     {
-      "id": 3781602,
-      "artist": "Blur",
-      "album": "Think Tank",
-      "genre": "Rock",
-      "year": 2003,
-      "purchasing": false
-    },
-    {
       "id": 19379470,
       "artist": "Bonobo",
       "album": "Black Sands",
@@ -226,22 +626,6 @@
       "purchasing": false
     },
     {
-      "id": 14572495,
-      "artist": "Claude Nougaro",
-      "album": "Best Of",
-      "genre": "Jazz",
-      "year": 2019,
-      "purchasing": false
-    },
-    {
-      "id": 1564429,
-      "artist": "Cream (2)",
-      "album": "Wheels Of Fire",
-      "genre": "Rock",
-      "year": 1968,
-      "purchasing": false
-    },
-    {
       "id": 1057315,
       "artist": "Creedence Clearwater Revival",
       "album": "Cosmo's Factory",
@@ -258,35 +642,11 @@
       "purchasing": false
     },
     {
-      "id": 28650445,
-      "artist": "Daria Zawiałow",
-      "album": "Dziewczyna Pop",
-      "genre": "Pop",
-      "year": 2023,
-      "purchasing": false
-    },
-    {
-      "id": 23052539,
-      "artist": "Darius (17)",
-      "album": "Velour",
-      "genre": "Electronic, Funk / Soul",
-      "year": 2012,
-      "purchasing": false
-    },
-    {
       "id": 8032695,
       "artist": "Death Cab For Cutie",
       "album": "Plans",
       "genre": "Rock",
       "year": 2005,
-      "purchasing": false
-    },
-    {
-      "id": 34675510,
-      "artist": "Deftones",
-      "album": "Diamond Eyes",
-      "genre": "Rock",
-      "year": 2010,
       "purchasing": false
     },
     {
@@ -303,14 +663,6 @@
       "album": "DJ Kicks",
       "genre": "Electronic",
       "year": 2021,
-      "purchasing": false
-    },
-    {
-      "id": 4618675,
-      "artist": "Disclosure (3)",
-      "album": "Settle",
-      "genre": "Electronic",
-      "year": 2013,
       "purchasing": false
     },
     {
@@ -354,35 +706,11 @@
       "purchasing": false
     },
     {
-      "id": 1616160,
-      "artist": "Fleetwood Mac",
-      "album": "Fleetwood Mac",
-      "genre": "Rock",
-      "year": 1975,
-      "purchasing": false
-    },
-    {
-      "id": 29490082,
-      "artist": "Foo Fighters",
-      "album": "The Colour And The Shape",
-      "genre": "Rock",
-      "year": 1997,
-      "purchasing": false
-    },
-    {
       "id": 33537612,
       "artist": "Franc Moody",
       "album": "Chewing The Fat",
       "genre": "Electronic, Funk / Soul",
       "year": 2025,
-      "purchasing": false
-    },
-    {
-      "id": 21799750,
-      "artist": "Frank Ocean",
-      "album": "Blond",
-      "genre": "Hip Hop, Funk / Soul",
-      "year": 2016,
       "purchasing": false
     },
     {
@@ -402,14 +730,6 @@
       "purchasing": false
     },
     {
-      "id": 6406827,
-      "artist": "Funkadelic",
-      "album": "Maggot Brain",
-      "genre": "Rock, Funk / Soul",
-      "year": 1971,
-      "purchasing": false
-    },
-    {
       "id": 19925866,
       "artist": "Garbage",
       "album": "Garbage",
@@ -423,38 +743,6 @@
       "album": "Supernature",
       "genre": "Electronic, Pop",
       "year": 2005,
-      "purchasing": false
-    },
-    {
-      "id": 20414716,
-      "artist": "Gorillaz",
-      "album": "Gorillaz",
-      "genre": "Electronic, Hip Hop, Rock, Latin, Funk / Soul, Pop",
-      "year": 2001,
-      "purchasing": false
-    },
-    {
-      "id": 1203470,
-      "artist": "Green Day",
-      "album": "American Idiot",
-      "genre": "Rock",
-      "year": 2004,
-      "purchasing": false
-    },
-    {
-      "id": 3852834,
-      "artist": "Grizzly Bear",
-      "album": "Veckatimest",
-      "genre": "Rock, Folk, World, & Country",
-      "year": 2009,
-      "purchasing": false
-    },
-    {
-      "id": 6912069,
-      "artist": "Hvob",
-      "album": "Trialog",
-      "genre": "Electronic",
-      "year": 2015,
       "purchasing": false
     },
     {
@@ -474,14 +762,6 @@
       "purchasing": false
     },
     {
-      "id": 29667631,
-      "artist": "Jack White (2)",
-      "album": "Lazaretto",
-      "genre": "Rock",
-      "year": 2014,
-      "purchasing": false
-    },
-    {
       "id": 28186123,
       "artist": "Jalen N'Gonda",
       "album": "Come Around And Love Me",
@@ -490,35 +770,11 @@
       "purchasing": false
     },
     {
-      "id": 11108275,
-      "artist": "Jamiroquai",
-      "album": "Emergency On Planet Earth",
-      "genre": "Jazz, Rock, Funk / Soul, Pop, Folk, World, & Country",
-      "year": 1993,
-      "purchasing": false
-    },
-    {
-      "id": 11591040,
-      "artist": "Jamiroquai",
-      "album": "Synkronized",
-      "genre": "Electronic, Jazz, Funk / Soul, Pop",
-      "year": 1999,
-      "purchasing": false
-    },
-    {
       "id": 26132159,
       "artist": "Jeff Buckley",
       "album": "Grace",
       "genre": "Rock",
       "year": 1994,
-      "purchasing": false
-    },
-    {
-      "id": 24748850,
-      "artist": "Joni Mitchell",
-      "album": "Blue",
-      "genre": "Rock",
-      "year": 1971,
       "purchasing": false
     },
     {
@@ -551,14 +807,6 @@
       "album": "Good Kid, M.A.A.D City",
       "genre": "Hip Hop",
       "year": 2012,
-      "purchasing": false
-    },
-    {
-      "id": 23398166,
-      "artist": "Kendrick Lamar",
-      "album": "To Pimp A Butterfly",
-      "genre": "Hip Hop, Jazz, Funk / Soul",
-      "year": 2015,
       "purchasing": false
     },
     {
@@ -610,35 +858,11 @@
       "purchasing": false
     },
     {
-      "id": 765648,
-      "artist": "Led Zeppelin",
-      "album": "Physical Graffiti",
-      "genre": "Rock",
-      "year": 1975,
-      "purchasing": false
-    },
-    {
       "id": 28939996,
       "artist": "Limp Bizkit",
       "album": "Chocolate Starfish And The Hot Dog Flavored Water",
       "genre": "Hip Hop, Rock",
       "year": 2000,
-      "purchasing": false
-    },
-    {
-      "id": 31311138,
-      "artist": "Linkin Park",
-      "album": "Meteora",
-      "genre": "Rock",
-      "year": 2003,
-      "purchasing": false
-    },
-    {
-      "id": 11819611,
-      "artist": "Lorde",
-      "album": "Melodrama",
-      "genre": "Pop",
-      "year": 2017,
       "purchasing": false
     },
     {
@@ -658,27 +882,11 @@
       "purchasing": false
     },
     {
-      "id": 9442778,
-      "artist": "Massive Attack",
-      "album": "Blue Lines",
-      "genre": "Electronic",
-      "year": 1991,
-      "purchasing": false
-    },
-    {
       "id": 12733201,
       "artist": "Metallica",
       "album": "...And Justice For All",
       "genre": "Rock",
       "year": 1988,
-      "purchasing": false
-    },
-    {
-      "id": 439599,
-      "artist": "Metallica",
-      "album": "Metallica",
-      "genre": "Rock",
-      "year": 1991,
       "purchasing": false
     },
     {
@@ -714,51 +922,11 @@
       "purchasing": false
     },
     {
-      "id": 6885932,
-      "artist": "Mos Def",
-      "album": "Black On Both Sides",
-      "genre": "Hip Hop",
-      "year": 1999,
-      "purchasing": false
-    },
-    {
-      "id": 16278431,
-      "artist": "Muse",
-      "album": "Origin Of Symmetry",
-      "genre": "Rock",
-      "year": 2001,
-      "purchasing": false
-    },
-    {
-      "id": 7219867,
-      "artist": "Muse",
-      "album": "Showbiz",
-      "genre": "Rock",
-      "year": 1999,
-      "purchasing": false
-    },
-    {
       "id": 30279773,
       "artist": "Neil Frances (2)",
       "album": "It's All a Bit Fuzzy",
       "genre": "Electronic, Rock, Pop",
       "year": 2024,
-      "purchasing": false
-    },
-    {
-      "id": 3415833,
-      "artist": "Neil Young",
-      "album": "Harvest",
-      "genre": "Rock",
-      "year": 1972,
-      "purchasing": false
-    },
-    {
-      "id": 1764159,
-      "artist": "Neil Young, Crazy Horse",
-      "album": "Zuma",
-      "genre": "Rock",
-      "year": 1975,
       "purchasing": false
     },
     {
@@ -802,22 +970,6 @@
       "purchasing": false
     },
     {
-      "id": 6709476,
-      "artist": "Phoenix",
-      "album": "Alphabetical",
-      "genre": "Electronic, Rock, Pop",
-      "year": 2004,
-      "purchasing": false
-    },
-    {
-      "id": 702327,
-      "artist": "Phoenix",
-      "album": "It's Never Been Like That",
-      "genre": "Rock",
-      "year": 2006,
-      "purchasing": false
-    },
-    {
       "id": 781780,
       "artist": "Pixies",
       "album": "Death To The Pixies",
@@ -858,35 +1010,11 @@
       "purchasing": false
     },
     {
-      "id": 8712137,
-      "artist": "Radiohead",
-      "album": "Amnesiac",
-      "genre": "Electronic, Rock",
-      "year": 2001,
-      "purchasing": false
-    },
-    {
-      "id": 25815409,
-      "artist": "Radiohead",
-      "album": "Hail To The Thief",
-      "genre": "Electronic, Rock",
-      "year": 2003,
-      "purchasing": false
-    },
-    {
       "id": 25979578,
       "artist": "Raye (3)",
       "album": "My 21st Century Blues.",
       "genre": "Electronic, Hip Hop, Pop",
       "year": 2023,
-      "purchasing": false
-    },
-    {
-      "id": 15276024,
-      "artist": "Red Hot Chili Peppers",
-      "album": "By The Way",
-      "genre": "Rock",
-      "year": 2002,
       "purchasing": false
     },
     {
@@ -914,14 +1042,6 @@
       "purchasing": false
     },
     {
-      "id": 27608496,
-      "artist": "Rüfüs Du Sol",
-      "album": "Live From Joshua Tree",
-      "genre": "Electronic",
-      "year": 2023,
-      "purchasing": false
-    },
-    {
       "id": 947850,
       "artist": "Sade",
       "album": "Diamond Life",
@@ -935,22 +1055,6 @@
       "album": "Selah Sue",
       "genre": "Reggae, Pop",
       "year": 2011,
-      "purchasing": false
-    },
-    {
-      "id": 19892212,
-      "artist": "Sheryl Crow",
-      "album": "Live From The Ryman And More",
-      "genre": "Rock, Pop, Folk, World, & Country",
-      "year": 2021,
-      "purchasing": false
-    },
-    {
-      "id": 6589854,
-      "artist": "Sigur Rós",
-      "album": "Ágætis Byrjun",
-      "genre": "Electronic, Rock",
-      "year": 1999,
       "purchasing": false
     },
     {
@@ -1050,14 +1154,6 @@
       "purchasing": false
     },
     {
-      "id": 5309158,
-      "artist": "The Flaming Lips",
-      "album": "Yoshimi Battles The Pink Robots",
-      "genre": "Electronic, Rock",
-      "year": 2002,
-      "purchasing": false
-    },
-    {
       "id": 1861202,
       "artist": "The Gossip",
       "album": "Music For Men",
@@ -1071,14 +1167,6 @@
       "album": "Hot Fuss",
       "genre": "Rock",
       "year": 2004,
-      "purchasing": false
-    },
-    {
-      "id": 16932570,
-      "artist": "The Kinks",
-      "album": "Kinks",
-      "genre": "Rock",
-      "year": 1964,
       "purchasing": false
     },
     {
@@ -1098,22 +1186,6 @@
       "purchasing": false
     },
     {
-      "id": 6852934,
-      "artist": "The Prodigy",
-      "album": "The Fat Of The Land",
-      "genre": "Electronic",
-      "year": 1997,
-      "purchasing": false
-    },
-    {
-      "id": 11227835,
-      "artist": "The Rolling Stones",
-      "album": "Sticky Fingers",
-      "genre": "Rock, Blues",
-      "year": 1971,
-      "purchasing": false
-    },
-    {
       "id": 5366579,
       "artist": "The Roots",
       "album": "Things Fall Apart",
@@ -1122,67 +1194,11 @@
       "purchasing": false
     },
     {
-      "id": 8014017,
-      "artist": "The Smiths",
-      "album": "Meat Is Murder",
-      "genre": "Rock",
-      "year": 1985,
-      "purchasing": false
-    },
-    {
-      "id": 3564656,
-      "artist": "The Smiths",
-      "album": "The Queen Is Dead",
-      "genre": "Rock, Pop",
-      "year": 1986,
-      "purchasing": false
-    },
-    {
-      "id": 15249054,
-      "artist": "The Strokes",
-      "album": "The New Abnormal",
-      "genre": "Electronic, Rock",
-      "year": 2020,
-      "purchasing": false
-    },
-    {
       "id": 22649960,
       "artist": "The White Stripes",
       "album": "De Stijl",
       "genre": "Rock",
       "year": 2000,
-      "purchasing": false
-    },
-    {
-      "id": 26820938,
-      "artist": "The White Stripes",
-      "album": "Elephant",
-      "genre": "Rock",
-      "year": 2003,
-      "purchasing": false
-    },
-    {
-      "id": 1044427,
-      "artist": "The Who",
-      "album": "Tommy",
-      "genre": "Rock",
-      "year": 1969,
-      "purchasing": false
-    },
-    {
-      "id": 23846420,
-      "artist": "Them Crooked Vultures",
-      "album": "Them Crooked Vultures",
-      "genre": "Rock",
-      "year": 2009,
-      "purchasing": false
-    },
-    {
-      "id": 25416328,
-      "artist": "Thom Yorke",
-      "album": "The Eraser",
-      "genre": "Electronic, Rock",
-      "year": 2006,
       "purchasing": false
     },
     {
@@ -1199,22 +1215,6 @@
       "album": "Labour Of Love II",
       "genre": "Reggae",
       "year": 1989,
-      "purchasing": false
-    },
-    {
-      "id": 4532126,
-      "artist": "Valerie June",
-      "album": "Pushin' Against A Stone",
-      "genre": "Funk / Soul",
-      "year": 2013,
-      "purchasing": false
-    },
-    {
-      "id": 1245209,
-      "artist": "Vampire Weekend",
-      "album": "Vampire Weekend",
-      "genre": "Rock",
-      "year": 2008,
       "purchasing": false
     },
     {
